@@ -1,0 +1,66 @@
+{
+    "name": "15-puzzle",
+    "version": "5.2.1",
+    "description": "A simple 15 puzzle library",
+    "main": "dist/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/HiraginoYuki/15-puzzle.git"
+    },
+    "keywords": [
+        "15puzzle",
+        "puzzle"
+    ],
+    "author": {
+        "name": "Yuki Hiragino"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/HiraginoYuki/15-puzzle/issues"
+    },
+    "homepage": "https://github.com/HiraginoYuki/15-puzzle#readme",
+    "dependencies": {
+        "@types/random-seed": "^0.3.3",
+        "random-seed": "^0.3.0"
+    },
+    "devDependencies": {
+        "typescript": "^4.2.2"
+    },
+    "gitHead": "f45858197c165d13dcdcb2052b8d69a182ed3b4a",
+    "_id": "15-puzzle@5.2.1",
+    "_nodeVersion": "16.3.0",
+    "_npmVersion": "7.15.1",
+    "dist": {
+        "integrity": "sha512-Qxh5b93Kv/AWiGR7tZN3ZEnvDP5xoLYhIkQptQ5g5VXUxy0zPlKW/Kwpa2hUO3s8d1SNvmfjBR9YC36eWKTyLA==",
+        "shasum": "a5de662462b9f660ad2ee1819fce977f0a31a40a",
+        "tarball": "https://registry.npmjs.org/15-puzzle/-/15-puzzle-5.2.1.tgz",
+        "fileCount": 28,
+        "unpackedSize": 58231,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJgwUE+CRA9TVsSAnZWagAAk60P/21UpwcTAJhFtrkPVNBy\nbSvuZFZbEdBsMqQ0a1H0QsUWo3Ltsq8nmSvsUimSST9qmEtRyP0e0PEpNiiE\nkwuf721ZeWa5p9UZ+FWqyNUepuV31yNZ+OFr99JMAunCUIkwDWPBi/+qqYoJ\n5pnhJKILOXBrRvk5FL51ZGVACb1ylbc0ifHE/ENzlmGQKv9FfbMxEeBdGTye\nJbcfAvpJUJoyCU7PO9PwJQoDJlXsZg6SRi4tkm4xeX20OOz4Wq++eQlaz2gg\nlLvZk3tm61cYzZx7a6QU/EZK/HT0uzEfolWxfghfFHnsBg9/sBsKirRtP8zS\njc1KYZOh9cn/T8P6PbNB6FlCw7Z71H3sFKg68i8AAidzwWNCuwL3780cYbCG\ns5URh91YENCRHJoEiA2ADg3kTjzulyrMf0jqtEur/ov0K8KdvCyq7nkLiZWF\nUuexe61DfTaiSDkWGG+gnRFHvKPKnMSngg8+9ZtcCx6Rt2J0yVPDymwm8He2\nSUsmnTPKSEPh0/COLjj6WkF2zvW423FPKEQBpKDJwFbp9hpqgTU1R7BHH+x3\n3cUBL9p5R2yQOLgM2I00o15O5LC+kv2+kHvqIJmYM+TuXLGwah+nkNy4jqnA\nuZxel5lnHqC2P2hwMZ5/pNEWrhr9mlaiSOQOGjQgwMcIiK/t3bGQr2MIuI1P\ng2rO\r\n=3Zir\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIAOwnXrd7Ohpr4GQ7VjCdi+22U6zJN8NhTGdvEtoSoPKAiEA4zr/bMhU4f8y288+Co0E5iJf7scVHPYvJi2mqy0OVZQ="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "hiragino_yuki",
+        "email": "hiraginoyuki@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "hiragino_yuki",
+            "email": "hiraginoyuki@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/15-puzzle_5.2.1_1623277886038_0.5089896590839322"
+    },
+    "_hasShrinkwrap": false
+}

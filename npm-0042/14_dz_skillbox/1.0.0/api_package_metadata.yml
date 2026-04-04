@@ -1,0 +1,63 @@
+{
+    "name": "14_dz_skillbox",
+    "version": "1.0.0",
+    "description": "simple page with webpack",
+    "main": "/build/build.js",
+    "scripts": {
+        "build": "webpack --mode development --watch",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "skillbox",
+        "webpack",
+        "nodejs"
+    ],
+    "author": {
+        "name": "Alexandr Urbanyuk"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "@babel/core": "^7.1.6",
+        "@babel/preset-env": "^7.1.6",
+        "babel-loader": "^8.0.4",
+        "css-loader": "^1.0.1",
+        "extract-text-webpack-plugin": "^3.0.2",
+        "mini-css-extract-plugin": "^0.4.4",
+        "style-loader": "^0.23.1",
+        "webpack": "^4.26.0",
+        "webpack-cli": "^3.1.2"
+    },
+    "_id": "14_dz_skillbox@1.0.0",
+    "_npmVersion": "6.4.1",
+    "_nodeVersion": "10.13.0",
+    "_npmUser": {
+        "name": "urbanz91",
+        "email": "turbino4ka91@gmail.com"
+    },
+    "dist": {
+        "integrity": "sha512-tMO3X7xgMbN/6eNLUaJZ4lBYrocGB3sZWUh06yuQPbaAekkw97cS02CwbX8v8kyYN9u5/WwM1QxrhkofSm0NPg==",
+        "shasum": "20a0c04d04e6dc0497f4ce2487cb9073c6965377",
+        "tarball": "https://registry.npmjs.org/14_dz_skillbox/-/14_dz_skillbox-1.0.0.tgz",
+        "fileCount": 9,
+        "unpackedSize": 8056,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJb8rRQCRA9TVsSAnZWagAAtysP/1SF3d/npT7zb8dlKav+\nmI50fCss/g5u9feM4QNarSCTxhyrCLPzK4L4OwQIVXnwZJWueBZpbhxinlPT\nOVMMXL4OoxbBiL1sJSvJuhYbB+WYffSOeaq3Tc/PqBg5y+jLDaYqcoD6haTh\nocgkgg4HrS0SHRwuK14ilhW49zFPzUSFnoPo0n2czU59/aiEErKB2T5++kCz\ndt/+uUAaRKWLFsxN4cyuW30DVhPTNCVty+zO9ey+upSrjnkRZW6qlIkREpTy\ng22szHdx95X55ETHP9kSla/JxgUqWjXaQYnLlx9dnwRqfjvjsqx8qexXsXD2\nNrF2SYU/OtuFRVL4t9RjUajfZ8lLvEVy9WoeKK0hlvreQpzLpHQswJgsI3iP\npho9aHQ5dOokdWRXZL4LLmaYKfFxNrphB308UXPAv5igZirpFiodo+vkwbDt\nOODdrKTu33AOillgtfhYuprlbn3ARmvfWVn+ebeuwq+SJ9uV5u1GUE5PZeAF\n17ve2BXqap02P8ONTKNfQ30S+5La3A0DgPaWT/yWrV1oF0LipDWQRPPnc2TJ\nDOhZmA0PLU0ozJQxTQMSLytAh0fQp+vOsNtA2lyHJj/CJB01PSiPaqauvtxY\n+cYMBvF+7JoUWBlHU6BEsIy81DkSk3IS46BV1VXjNtdQxD0qQatlCmk9eno0\nnSJW\r\n=5AdP\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQD5Jtncc3zXiREdDt4utBI/55cYqh/CpJmrf9Hydj53BwIhAJXrXnWQAH1Sobw8rSE0VXnF0Tm+G4ApL8lA6JyYb1YP"
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "urbanz91",
+            "email": "turbino4ka91@gmail.com"
+        }
+    ],
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/14_dz_skillbox_1.0.0_1542632527658_0.23977535805588013"
+    },
+    "_hasShrinkwrap": false
+}

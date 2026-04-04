@@ -1,0 +1,45 @@
+{
+    "name": "16o6ly",
+    "version": "2.2.0",
+    "description": "16o6ly",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "anthonythompson150x"
+    },
+    "license": "ISC",
+    "_id": "16o6ly@2.2.0",
+    "_nodeVersion": "16.14.0",
+    "_npmVersion": "8.5.2",
+    "dist": {
+        "integrity": "sha512-BQ2ZpreIn+jCEFleUBNcolDCqn68hn24cC/KoRVLLhRZSkxJYc1kO4P4ihSfNSDDmkZMtiliYfe/ckAot4s50A==",
+        "shasum": "e1bcfc2a4efd36e530fd1214895759ee553571ac",
+        "tarball": "https://registry.npmjs.org/16o6ly/-/16o6ly-2.2.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 774,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDqALJd+d01sXEfF++YH+ce4TRmZtXCPf/LLWBA5txn8QIgNTXDaf2G6KBVcV1bPW4Pog7EfkUd8uAoryl1dDKOtF8="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "anthonythompson150x",
+        "email": "anthonythompson150x@cultureleb.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "anthonythompson150x",
+            "email": "anthonythompson150x@cultureleb.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/16o6ly_2.2.0_1683362574347_0.522085379948311"
+    },
+    "_hasShrinkwrap": false
+}

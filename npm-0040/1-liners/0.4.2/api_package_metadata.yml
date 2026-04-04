@@ -1,0 +1,104 @@
+{
+    "name": "1-liners",
+    "version": "0.4.2",
+    "description": "Useful oneliners and shorthand functions",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/1-liners/1-liners.git"
+    },
+    "author": {
+        "name": "stoeffel",
+        "email": "schtoeffel@gmail.com",
+        "url": "schtoeffel.ch"
+    },
+    "engines": {
+        "node": ">=0.10.0"
+    },
+    "scripts": {
+        "precommit": "npm run docs; npm run create-index; npm run updateCount; git add documentation module/index.js README.md",
+        "develop": "nodangel --watch module --watch tests --exec 'npm --silent test'",
+        "istanbul": "istanbul cover ./node_modules/mocha/bin/_mocha  -- --report lcov --compilers js:babel/register --ui qunit ./tests",
+        "docs": "babel-node ./utils/createDocs.js; npm run toc; npm run updateCount",
+        "updateCount": "babel-node ./utils/updateFuncCount.js;",
+        "toc": "doctoc ./documentation/README.md",
+        "mocha": "mocha --compilers js:babel/register --ui qunit ./tests",
+        "compile": "cd ./module; babel --loose=all --plugins object-assign,array-includes --auxiliary-comment-before 'istanbul ignore next' ./*.js --out-dir ../",
+        "clean": "rm -f *.js",
+        "coverage": "npm run compile; npm run istanbul; npm run clean",
+        "coveralls": "npm run compile && npm run istanbul  && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && npm run clean",
+        "test": "npm run coverage",
+        "create-index": "module-indexer .",
+        "prepublish": "npm test; npm run create-index; npm run compile",
+        "patch-release": "npm version patch && npm publish && git push --follow-tags",
+        "minor-release": "npm version minor && npm publish && git push --follow-tags",
+        "major-release": "npm version major && npm publish && git push --follow-tags"
+    },
+    "keywords": [
+        "oneliners",
+        "shorthands"
+    ],
+    "dependencies": {},
+    "devDependencies": {
+        "babel": "^5.6.3",
+        "babel-core": "^5.5.6",
+        "babel-plugin-array-includes": "^1.1.0",
+        "babel-plugin-object-assign": "^1.2.0",
+        "coveralls": "^2.11.2",
+        "doctoc": "^0.14.1",
+        "dox": "^0.8.0",
+        "get-modules": "^1.0.2",
+        "husky": "^0.8.1",
+        "istanbul": "^0.3.14",
+        "mocha": "^2.2.5",
+        "mocha-lcov-reporter": "0.0.2",
+        "module-indexer": "^1.0.0",
+        "nodangel": "^1.3.8"
+    },
+    "gitHead": "d8f6443eb55adfe138a54e54052fd32ab0e5e59e",
+    "bugs": {
+        "url": "https://github.com/1-liners/1-liners/issues"
+    },
+    "homepage": "https://github.com/1-liners/1-liners#readme",
+    "_id": "1-liners@0.4.2",
+    "_npmVersion": "6.1.0",
+    "_nodeVersion": "8.11.1",
+    "_npmUser": {
+        "name": "hemanth",
+        "email": "hemanth.hm@gmail.com"
+    },
+    "dist": {
+        "integrity": "sha512-R3wiYhkUgwfhg5lhPSEKANTot/SJ1UK4nsf7oX2fb7fl936/yIMvO9Jr9FLCXlJ6A9WllCbgAGN60JEJQT7+XA==",
+        "shasum": "93412925eb35e85391f91c015ddf44dff6a783ac",
+        "tarball": "https://registry.npmjs.org/1-liners/-/1-liners-0.4.2.tgz",
+        "fileCount": 277,
+        "unpackedSize": 151534,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJdFHKFCRA9TVsSAnZWagAAP1sQAJVd7KzGp7ZLMQBqLGOf\nvR1qeGtYc3NjxHoRGyIJRAQMaDhAcQ/TT6Q8eDHdN5Mr0CiK18sg6odxqGn0\nl7TgeYPY/ZifgDG0OKHwCGWRbKMcdlT2JMUIQSI4Zn63V4bi94YPZVPNEv2U\nQEGj+MAlVQsO5Dg3UG+44GmOyVL7StA//wjE6hUzwsR0oE9BysJY7F/cGDGB\nG+rLFmOAaZaiKT2jPw/XxG+vaI9gvowAVOAegVJ1GSzpQoaI2yUq+bzjZ9P9\nyneJlAFCb9QH3q4rlV0VvxRfPqtl5VjOHw4UFRJFoHfGUluigpru423pr0FS\nQ08RVAUD9tsKdStZkvJrS/Y4t/Os1VE/CKmsJZACinbvTripuvTpnRxPMpte\nkm2V+y4Wabj4+f+gqyfzN02QCaZoSFfDmeZQo8A/ReRu14Dd2uhdek4sjjj6\n5/OGr3gN15b1d0jLkQzY+N4bYjsMyberGzJqLYP+l6NKrm9Qlr3aknps7s/A\nEwMjsDx3rJZw5W9fLtPUaN/XJNrcfLd3qDqZ076te2iTy4oIjSj7d3j4qOFR\nvboUpyeFzWQnOWbe9SqCgErwSTxgXQSwpNCWjUK6qfBOmJFn7ERWxTA7xidF\n0A4Y9rMGNFUVS2cq33NSZnW0FqMpTbDNduYv4bmPMdv0y6WKnY0zlnIABz2N\ni+Zy\r\n=tiAX\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQC5GzIN9/vMLcunnF3IlojAt5ncnRO97Bs/d51uwVNC7wIhAJeSGRbIHRVCTabnAtHKyDlNIZDUes1CCsTJXs8m3437"
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "hemanth",
+            "email": "hemanth.hm@gmail.com"
+        },
+        {
+            "name": "schtoeffel",
+            "email": "schtoeffel@gmail.com"
+        },
+        {
+            "name": "tomekwi",
+            "email": "t.wiszniewski@gmail.com"
+        }
+    ],
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1-liners_0.4.2_1561621124546_0.564364007158715"
+    },
+    "_hasShrinkwrap": false
+}

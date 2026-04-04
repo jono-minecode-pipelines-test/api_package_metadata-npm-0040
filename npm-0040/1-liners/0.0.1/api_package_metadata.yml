@@ -1,0 +1,64 @@
+{
+    "name": "1-liners",
+    "version": "0.0.1",
+    "description": "Useful oneliners and shorthand functions",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/stoeffel/1-liners"
+    },
+    "author": {
+        "name": "stoeffel",
+        "email": "schtoeffel@gmail.com",
+        "url": "schtoeffel.ch"
+    },
+    "engines": {
+        "node": ">=0.10.0"
+    },
+    "scripts": {
+        "test": "mocha --compilers js:babel/register --ui qunit ./tests",
+        "compile": "cd ./src; babel --loose=all ./*.js --out-dir ../",
+        "prepublish": "npm run compile"
+    },
+    "keywords": [
+        "oneliners",
+        "shorthands"
+    ],
+    "dependencies": {},
+    "devDependencies": {
+        "babel": "^5.1.10",
+        "mocha": "^2.2.4"
+    },
+    "gitHead": "9361beba6f9bb2f65a4b0b8b17b1e4b62872ab25",
+    "bugs": {
+        "url": "https://github.com/stoeffel/1-liners/issues"
+    },
+    "homepage": "https://github.com/stoeffel/1-liners",
+    "_id": "1-liners@0.0.1",
+    "_shasum": "90fbbdac53995af5387dab24dea1974156f66073",
+    "_from": ".",
+    "_npmVersion": "2.5.1",
+    "_nodeVersion": "1.1.0",
+    "_npmUser": {
+        "name": "schtoeffel",
+        "email": "schtoeffel@gmail.com"
+    },
+    "maintainers": [
+        {
+            "name": "schtoeffel",
+            "email": "schtoeffel@gmail.com"
+        }
+    ],
+    "dist": {
+        "shasum": "90fbbdac53995af5387dab24dea1974156f66073",
+        "tarball": "https://registry.npmjs.org/1-liners/-/1-liners-0.0.1.tgz",
+        "integrity": "sha512-ICMias6qIRI8Q8rCJWCZbRKaq0L80M8ju3Xi2sOoWqFbfenCaafAzPBS0h/HxFgPR8OI5tzzHSW6iZm/YoyBHw==",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDVE//sNptFE6iLGrCK5ij9jFd1QaMyiNe1BXTuTmQZMAIgM5T9Z/Mx61wcEp0FSMT5efHhHoNk2yN54BeSNUG/Puo="
+            }
+        ]
+    },
+    "directories": {}
+}

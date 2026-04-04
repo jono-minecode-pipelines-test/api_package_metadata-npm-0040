@@ -1,0 +1,45 @@
+{
+    "name": "07aa",
+    "version": "1.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "07aa@1.0.1",
+    "_nodeVersion": "14.8.0",
+    "_npmVersion": "6.14.7",
+    "dist": {
+        "integrity": "sha512-Lk7G7fTP9qaHbKUNoLH7RMYL1kbHyGuvKea0wRJiFKPkTGmpBBaymBhdGEnOLV6xEAcphNratsZGTgKJQUlMWA==",
+        "shasum": "1a747cb3ca50ca831b4efee8420898993a4b3ba8",
+        "tarball": "https://registry.npmjs.org/07aa/-/07aa-1.0.1.tgz",
+        "fileCount": 2,
+        "unpackedSize": 242,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJfzeTSCRA9TVsSAnZWagAAaswP/3hNyWw1Hm3xxb/Nxbwf\nT2ZvzU8jvQKXWglxz814PYjoXZFz++4V/bEtBL553hJPIyQc4qId9icdXj/C\nzDrCAmKvKy9U1qVng0b8e+/biyeX2qDAQw5tZjQMTTooVmVUpnmcaFfcUdzY\nlW+gAZPkBgS7ucd0bGSSbxnl3hlk+CUdHXVxi0pJg3Ko9Mat1GWgx8RfkKdl\nltrLz+X9d+EypDFnJCl5zcnEmDLj83cPsET74Oyvd9G0Tuh++iaTL9IvxRiE\nHOzS7pORYrea90rC7PtF/CwOSpZ5Y5kmWWvrT4awtlZpAMWsKKYTIpEoW9j/\nG4RYwuqDOHVFZXGyJ2F2fM658Z3XrTLbfa55wLix5xh/AotuFNyZf5fPAvxk\nH3Bt9MEqaU3KdDzuuqow7YAaYujGXB7/zv1z51KcsGTBbo7tKkLgFsgi5pg/\nex3W9fOnok6lqN+mw/l1OO22NNzSn9+5hANWnk9gUdQwM0jFwV1VWlHev/vp\nKTlZrNiGsjSM5yHWg9E1rlRDRl8+tRM2y1rl3kAfI7F+QZQ5GhfmQZmt2lrt\nsDqpx2JEBIQNj/Pnr6Ot6x++wHch8Dht0ZUqx17LnWFOlnoowrp/b3sX1lXD\nYtX1q5jRci6ENqnlVH4RVOWf18zrd/GoJ7di837XuiQW4H9kt4KSJx5n4/yk\nWxMY\r\n=Svjj\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIHO8AnKeErMGI+mPmtiAHjNiGSa7ZamLqHG3RwNqci3sAiBI6qlmP7qKeW2pNfbM/n+waOod49WJwF057oBYmEiwig=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "linyongcheng125",
+        "email": "1348828597@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "linyongcheng125",
+            "email": "1348828597@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/07aa_1.0.1_1607328977682_0.4294086152383516"
+    },
+    "_hasShrinkwrap": false
+}

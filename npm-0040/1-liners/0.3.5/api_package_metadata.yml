@@ -1,0 +1,100 @@
+{
+    "name": "1-liners",
+    "version": "0.3.5",
+    "description": "Useful oneliners and shorthand functions",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/1-liners/1-liners.git"
+    },
+    "author": {
+        "name": "stoeffel",
+        "email": "schtoeffel@gmail.com",
+        "url": "schtoeffel.ch"
+    },
+    "engines": {
+        "node": ">=0.10.0"
+    },
+    "scripts": {
+        "precommit": "npm run docs; npm run create-index; npm run updateCount; git add documentation module/index.js README.md",
+        "develop": "nodangel --watch module --watch tests --exec 'npm --silent test'",
+        "istanbul": "istanbul cover ./node_modules/mocha/bin/_mocha  -- --report lcov --compilers js:babel/register --ui qunit ./tests",
+        "docs": "babel-node ./utils/createDocs.js; npm run toc; npm run updateCount",
+        "updateCount": "babel-node ./utils/updateFuncCount.js;",
+        "toc": "doctoc ./documentation/README.md",
+        "mocha": "mocha --compilers js:babel/register --ui qunit ./tests",
+        "compile": "cd ./module; babel --loose=all --plugins object-assign --auxiliary-comment-before 'istanbul ignore next' ./*.js --out-dir ../",
+        "clean": "rm -f *.js",
+        "coverage": "npm run compile; npm run istanbul; npm run clean",
+        "coveralls": "npm run compile && npm run istanbul  && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && npm run clean",
+        "test": "npm run coverage",
+        "create-index": "module-indexer .",
+        "prepublish": "npm test; npm run create-index; npm run compile"
+    },
+    "files": [
+        "/*.js",
+        "/module/",
+        "/license",
+        "/readme.md"
+    ],
+    "keywords": [
+        "oneliners",
+        "shorthands"
+    ],
+    "dependencies": {},
+    "devDependencies": {
+        "babel": "^5.6.3",
+        "babel-core": "^5.5.6",
+        "babel-plugin-object-assign": "^1.2.0",
+        "coveralls": "^2.11.2",
+        "doctoc": "^0.14.1",
+        "dox": "^0.8.0",
+        "get-modules": "^1.0.2",
+        "husky": "^0.8.1",
+        "istanbul": "^0.3.14",
+        "mocha": "^2.2.5",
+        "mocha-lcov-reporter": "0.0.2",
+        "module-indexer": "^1.0.0",
+        "nodangel": "^1.3.8"
+    },
+    "gitHead": "751903e1a22ab2a66141e6d863004ac57d72c7bd",
+    "bugs": {
+        "url": "https://github.com/1-liners/1-liners/issues"
+    },
+    "homepage": "https://github.com/1-liners/1-liners#readme",
+    "_id": "1-liners@0.3.5",
+    "_shasum": "dedc0094fb54f1fc0251b40671ee06664723c41b",
+    "_from": ".",
+    "_npmVersion": "2.11.2",
+    "_nodeVersion": "0.12.5",
+    "_npmUser": {
+        "name": "tomekwi",
+        "email": "t.wiszniewski@gmail.com"
+    },
+    "dist": {
+        "shasum": "dedc0094fb54f1fc0251b40671ee06664723c41b",
+        "tarball": "https://registry.npmjs.org/1-liners/-/1-liners-0.3.5.tgz",
+        "integrity": "sha512-DdpcAax0GwIDejoSm7s4jPW8LOyy6F2wIaWxsfQnWwWITr5YK5uDBs/7zC8a4yv2PJCxZkikDm4Y3jwnuBC+iQ==",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCc8mc/xsRgWvTZvLkqkU1c9baMDY0UPXzsPSzrDC1sJgIgZHnbsUkQeG0H2jr4NgkdVtKL3EosExmOMyCEGuvqEoY="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "schtoeffel",
+            "email": "schtoeffel@gmail.com"
+        },
+        {
+            "name": "hemanth",
+            "email": "hemanth.hm@gmail.com"
+        },
+        {
+            "name": "tomekwi",
+            "email": "t.wiszniewski@gmail.com"
+        }
+    ],
+    "directories": {}
+}

@@ -1,0 +1,44 @@
+{
+    "name": "07.31-it",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "_id": "07.31-it@1.0.0",
+    "_nodeVersion": "12.18.3",
+    "_npmVersion": "6.14.6",
+    "dist": {
+        "integrity": "sha512-vVoKs54EqCZRVRpRmyrr9dmHpeAfD7gLeY5f/CuD1ZUZYl5PYCfF5lsxdaQ2c6vvFcSA+N5rT0R1HeDztP6LEg==",
+        "shasum": "7dee98980776c230715e9cafd975b562bc430ae4",
+        "tarball": "https://registry.npmjs.org/07.31-it/-/07.31-it-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 252,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJfI9ajCRA9TVsSAnZWagAAy1oP/2Qkagu0ubCnfJPGuCnv\nVowmFp8KMyijJi2rVOm40Ms65+HslPELQ7zZfxsl6YPMWeSek8LecU9pIKRq\n19hRbVOeetsUERWX1pC3dstWTNI2Rfw6lMLt3k4fDhctBMg2+nw08cOc9Sq+\njn9dIqNYNgLPQOila5HITudTUgztvDPhgV1lY4FWo+jNINCxDJg1MIQ2lBUp\nAHbtqUoTMkbinSgWpMi4rw/a97Dp64pY6YbzUO1r/Mw1cZt7xpLdKhIIzhpX\nP9sshf6XQC3ezBzqL+jEr6w0LvX4UF7Wj0JlJpz/BwfOI6HuM95M5XYSJ8Nj\nsi2wdBZsNsc9SWWJS01tNGaeF0EdMzRW8I952JreOgdP6Ku1okOWlSj36HMZ\noeKQY7QcG/R59DBYDurhUsMJgOEGVDgCGd4pafMwJX6iG01DeBbJOmpM8H1d\nb7/2dgm4JbDgfYrsXY/XYrCpUOmYIRdBBk8ukfehfhdgAvzWJBWPzQrUYmIF\nuLb6Ni4GL/RvdWO6mYGUoFkc5gqKx4IHNI+hcGoesqABCfyWuuH5GUOYz4fI\nizFo/h03j+orBkalMjFebvLu+VFkJ6b/YNcL75zBfW8CSrrhusUlGIfsQr9l\na+w6FxnkrvCO1ZQcpp4BFDi+W982tB0HUJXHxhEM7VqJp9RN2CcX98mGVx3W\nqIds\r\n=qjqI\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDGxZJnmpPQq6PYYD4wUe+dCBxqwkE/Q0pAOsSdFpsNcQIgLvJOKlJPjLOJHVgFaumgmMh/HOoT6m2l7RnG6DBkw2g="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "zf155299786",
+            "email": "155299786@qq.com"
+        }
+    ],
+    "_npmUser": {
+        "name": "zf155299786",
+        "email": "155299786@qq.com"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/07.31-it_1.0.0_1596184227091_0.5182500280808411"
+    },
+    "_hasShrinkwrap": false
+}

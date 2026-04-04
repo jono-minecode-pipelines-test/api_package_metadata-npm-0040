@@ -1,0 +1,47 @@
+{
+    "name": "0xgank-tea-they-soil",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "tea-bool": "^1.1.2",
+        "tea-rug": "^1.0.0"
+    },
+    "_id": "0xgank-tea-they-soil@1.0.0",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-d+D8IPrlhjWukbdmjn0VtpG5Na4v9ogFw/K7gOHnvZ5xeOwvnalSArEevlTvosSUa8vcWOl/2R8FP4eyq98nhA==",
+        "shasum": "3efcacd857a16fa5fa6375de64a47133e6d5ef74",
+        "tarball": "https://registry.npmjs.org/0xgank-tea-they-soil/-/0xgank-tea-they-soil-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 662,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCYN1cCrJMVfF6pbq9vZ+dr+J0wNsp5ydHkOx8BfcvQowIhANxZUgJ4GZlqnX2z6cthGuCp1+3yQx5QsHDM6VCwK+g/"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "bvbgokmogok",
+        "email": "blessglobal71@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "bvbgokmogok",
+            "email": "blessglobal71@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0xgank-tea-they-soil_1.0.0_1714633212422_0.7464369594790616"
+    },
+    "_hasShrinkwrap": false
+}

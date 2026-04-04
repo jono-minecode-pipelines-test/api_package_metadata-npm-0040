@@ -1,0 +1,104 @@
+{
+    "name": "0x-v4-nft",
+    "version": "1.1.0",
+    "description": "Javascript SDK for the OpenSea Market ",
+    "main": "lib/index.js",
+    "type": "lib/index.d.ts",
+    "author": {
+        "name": "Element Project Developers"
+    },
+    "scripts": {
+        "release": "tsc && npm publish",
+        "dev:tsc": "tsc -w -p tsconfig.json",
+        "eslint": "eslint --fix src --ext .ts --max-warnings=0",
+        "build:node": "webpack -c config/webpack.node.config.js",
+        "build:web": "webpack -c config/webpack.config.js",
+        "start": "webpack --watch",
+        "dev": "webpack serve --open -c config/webpack.config.js",
+        "link": "sudo npm link element-sdk",
+        "test": "cross-env TS_NODE_PROJECT='test/tsconfig.test.json' mocha test/**/**.test.ts",
+        "cover": "nyc --reporter=html npm run test"
+    },
+    "dependencies": {
+        "@txdev/0x-utils": "^1.1.2",
+        "ethers": "^5.5.4",
+        "web3-wallets": "^1.5.1"
+    },
+    "devDependencies": {
+        "@babel/preset-react": "^7.16.7",
+        "@ensdomains/ensjs": "^2.1.0",
+        "@types/chai": "^4.3.0",
+        "@types/mocha": "^9.0.0",
+        "@types/node": "^12.20.41",
+        "@types/react": "^17.0.43",
+        "@types/react-dom": "^17.0.14",
+        "antd": "^4.19.3",
+        "assert": "^2.0.0",
+        "babel-loader": "^8.2.4",
+        "bignumber.js": "^9.0.1",
+        "buffer": "^6.0.3",
+        "chai": "^4.3.4",
+        "clean-webpack-plugin": "^4.0.0",
+        "copy-webpack-plugin": "^10.1.0",
+        "cross-env": "^7.0.3",
+        "crypto-browserify": "3.12.0",
+        "css-loader": "^6.7.1",
+        "eslint": "^7.32.0",
+        "html-webpack-plugin": "^5.5.0",
+        "https-browserify": "^1.0.0",
+        "os-browserify": "^0.3.0",
+        "process": "^0.11.10",
+        "react": "^18.0.0",
+        "react-dom": "^18.0.0",
+        "sass": "^1.49.10",
+        "sass-loader": "^12.6.0",
+        "sinon": "^12.0.1",
+        "stream-browserify": "^3.0.0",
+        "stream-http": "^3.2.0",
+        "style-loader": "^3.3.1",
+        "ts-loader": "^5.3.3",
+        "ts-node": "^9.1.1",
+        "tsconfig-paths": "^3.12.0",
+        "typescript": "^4.6.3",
+        "url": "^0.11.0",
+        "webpack": "^5.64.1",
+        "webpack-cli": "^4.9.1",
+        "webpack-dev-server": "^4.5.0"
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "_id": "0x-v4-nft@1.1.0",
+    "_nodeVersion": "18.1.0",
+    "_npmVersion": "8.8.0",
+    "dist": {
+        "integrity": "sha512-0hKetw4rWpfTj+VHMgcw7scs9nvbGcM+IS5xKJBLlED0rP2qGUDhuSrjQcHPHzVO3ftbleiJbb3ybVu2Fu6FlA==",
+        "shasum": "bb2ebeec58689a24b5b9f7cf431dcf13976a4555",
+        "tarball": "https://registry.npmjs.org/0x-v4-nft/-/0x-v4-nft-1.1.0.tgz",
+        "fileCount": 3,
+        "unpackedSize": 3717,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIFk8+WMfi34SZxNaDqF96LRq3/GclGlzBNcVIlpfhXpMAiEAoK1bcUyryjy7vkWVslPierFbNZE9qwRptpiqFXUXSRE="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJifK4iACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqtyBAAgQQNSXEesNtHVDrUkv2cmFg2cYu1MLvwMeoCzGmnSPjJ4Ocq\r\nFlMXVhLDZudjtEHisnJX26EwDzdoTb2kKeXP9kSCQnYRnWphymZWdHWfnqs9\r\n85uMaQnVKm7kUbpbOW3XDTszFM2wMzEp5RjHm2Mpml79GerD8DK53EaEOIO5\r\nd8a0mvQ51+iQ03LrLYCR5HTv0EjvXmREL7vRWylPUYj9t26j134ywVITfnlr\r\nJ6VULvUhocGEqIJslO/B93noCkZN/yBnMlGQ4mVtRqIvxx2u1l6XuIOoIiUP\r\nPrqNis+nAOGbX/o//r7mcH6EWl5NE58LYkqigy3ZRYwon2sOA/XxGpbz2a7Y\r\nDsQd4L1TBE4s/VPdURd27eRwPi61bZypJZX3Muwi5cmDRu40NS4QP1M+vfto\r\nVjwWh+qTqbMjvbfPz4i/6z9RlIFCc388bp3wEE+Fa3Qq019vufPdc+Al4dP+\r\ndC4SzloGqTK+ifEGiWlWlXOM8L3S2qzNcAmU4Yi6U0cgvKHZI/K9Lf3d/gM+\r\nlCgmwgYbY5WCtliNzbFaAt794r+ZDPKNlz9128YZEkmWwqILjobZA0oJS2EU\r\nOZCd8J4mCsdT8viY0RWsPoBUwjfg5zL8gFplrfF+gjyCgL8U2D+BzfLa7Hu1\r\niX8OCU1g0shiVVOGJu4QCsqpqplnsPxfbSk=\r\n=VXcW\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "txdev",
+        "email": "txdev6@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "txdev",
+            "email": "txdev6@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0x-v4-nft_1.1.0_1652338210439_0.028347596445324585"
+    },
+    "_hasShrinkwrap": false
+}

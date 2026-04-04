@@ -1,0 +1,54 @@
+{
+    "name": "06_student_management_system-by-wajid",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "06_student_management_system-by-wajid": "main.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^9.2.22"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "06_student_management_system-by-wajid@1.0.0",
+    "gitHead": "f630f1ac2e908b412018640d79e3b081248d789e",
+    "_nodeVersion": "18.18.2",
+    "_npmVersion": "10.5.0",
+    "dist": {
+        "integrity": "sha512-+JCQAC/i3VBdR3txdMortmXM6RTT1+srrlbKQpwnpLqP/HSMZ/4EhpbX+EThWPaCRhFJb4DkVjlPjRuDUlisxA==",
+        "shasum": "bae14ffd6703e7e256f74eca03cd8bf9ce1314f3",
+        "tarball": "https://registry.npmjs.org/06_student_management_system-by-wajid/-/06_student_management_system-by-wajid-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 18091,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCQESLwS2tbF4Ku/5D5XzFqkcmQuLZtETKj/fQ0yFYq2wIgVBnFBkJFObWVD8dccqJrjE8hloIDc7JhuPmmzTv7TaA="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "wajidali11",
+        "email": "wajidmaitlo124@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "wajidali11",
+            "email": "wajidmaitlo124@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/06_student_management_system-by-wajid_1.0.0_1716916105284_0.34615742031862196"
+    },
+    "_hasShrinkwrap": false
+}

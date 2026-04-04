@@ -1,0 +1,56 @@
+{
+    "name": "10cartsharing",
+    "version": "1.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "cart-server": "index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/id0Sch/cart-sharing.git"
+    },
+    "author": {
+        "name": "Ido Schachter",
+        "email": "ido.schachter@gmail.com"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.13.3",
+        "lodash": "^3.10.1",
+        "socket.io": "^1.3.7"
+    },
+    "bugs": {
+        "url": "https://github.com/id0Sch/cart-sharing/issues"
+    },
+    "homepage": "https://github.com/id0Sch/cart-sharing#readme",
+    "_id": "10cartsharing@1.0.1",
+    "_shasum": "ed10625b6607262f612474fb5bc8c0594a927d19",
+    "_from": ".",
+    "_npmVersion": "3.4.1",
+    "_nodeVersion": "0.12.2",
+    "_npmUser": {
+        "name": "id0sch",
+        "email": "ido.schachter@gmail.com"
+    },
+    "dist": {
+        "shasum": "ed10625b6607262f612474fb5bc8c0594a927d19",
+        "tarball": "https://registry.npmjs.org/10cartsharing/-/10cartsharing-1.0.1.tgz",
+        "integrity": "sha512-IAGr3CGfdU5yJrfgeB6yIxKuu/NJzEgChVa6X4zIDNNb3xnaJYGPDJR/KAc1Wo/5qQ+F+Dy88fSxKviAEUfpxQ==",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIFWhuC1beRw7v/Uh5aCrMpX8xh6c9wFFfzSA3954SPcuAiAvKQLKcr4mXMJ1kVue+OliyZKntuWk5ZYygDKCHQHu/w=="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "id0sch",
+            "email": "ido.schachter@gmail.com"
+        }
+    ]
+}

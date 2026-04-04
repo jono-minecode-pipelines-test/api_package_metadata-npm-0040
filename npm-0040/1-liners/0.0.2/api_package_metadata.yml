@@ -1,0 +1,82 @@
+{
+    "name": "1-liners",
+    "version": "0.0.2",
+    "description": "Useful oneliners and shorthand functions",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/stoeffel/1-liners"
+    },
+    "author": {
+        "name": "stoeffel",
+        "email": "schtoeffel@gmail.com",
+        "url": "schtoeffel.ch"
+    },
+    "engines": {
+        "node": ">=0.10.0"
+    },
+    "scripts": {
+        "istanbul": "istanbul cover ./node_modules/mocha/bin/_mocha  -- -R nyan --report lcov --compilers js:babel/register --ui qunit ./tests",
+        "toc": "doctoc ./readme.md",
+        "mocha": "mocha --compilers js:babel/register --ui qunit ./tests",
+        "compile": "cd ./src; babel --loose=all ./*.js --out-dir ../",
+        "clean": "rm *.js",
+        "coverage": "npm run compile; npm run istanbul; npm run clean",
+        "coveralls": "npm run compile; npm run istanbul  && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js; npm run clean",
+        "test": "npm run coveralls",
+        "prepublish": "npm run compile"
+    },
+    "keywords": [
+        "oneliners",
+        "shorthands"
+    ],
+    "dependencies": {},
+    "devDependencies": {
+        "babel": "^5.1.10",
+        "coveralls": "^2.11.2",
+        "doctoc": "^0.12.0",
+        "istanbul": "^0.3.13",
+        "mocha": "^2.2.4",
+        "mocha-lcov-reporter": "0.0.2"
+    },
+    "gitHead": "6dbdadc952ff34355f8434ca4390c9a4772cf53a",
+    "bugs": {
+        "url": "https://github.com/stoeffel/1-liners/issues"
+    },
+    "homepage": "https://github.com/stoeffel/1-liners",
+    "_id": "1-liners@0.0.2",
+    "_shasum": "08e18ab72e57d2c1414067270d2f8667087aab0e",
+    "_from": ".",
+    "_npmVersion": "2.5.1",
+    "_nodeVersion": "1.1.0",
+    "_npmUser": {
+        "name": "schtoeffel",
+        "email": "schtoeffel@gmail.com"
+    },
+    "maintainers": [
+        {
+            "name": "schtoeffel",
+            "email": "schtoeffel@gmail.com"
+        },
+        {
+            "name": "hemanth",
+            "email": "hemanth.hm@gmail.com"
+        },
+        {
+            "name": "tomekwi",
+            "email": "t.wiszniewski@gmail.com"
+        }
+    ],
+    "dist": {
+        "shasum": "08e18ab72e57d2c1414067270d2f8667087aab0e",
+        "tarball": "https://registry.npmjs.org/1-liners/-/1-liners-0.0.2.tgz",
+        "integrity": "sha512-keDYstGOgJouTSEci8TYq+qCIQhOp0pGD2coKNT71dM7EyuHf2Erxmb9OcOI3ySnPbxiWqP1CEQ1m9T6sfMlvg==",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCn0uTJ85HMIVcnq2McUHwj9cg9qjLgw7Lmwbmn/PuifAIgQmSELLSq7fWYvAdJV03cT6eNE3UOlmkrwEO5pBmgWFY="
+            }
+        ]
+    },
+    "directories": {}
+}

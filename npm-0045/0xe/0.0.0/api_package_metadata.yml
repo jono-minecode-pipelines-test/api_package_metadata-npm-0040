@@ -1,0 +1,36 @@
+{
+    "name": "0xe",
+    "version": "0.0.0",
+    "_id": "0xe@0.0.0",
+    "_nodeVersion": "20.19.0",
+    "_npmVersion": "10.8.2",
+    "dist": {
+        "integrity": "sha512-S0BwnMEf8xmy3NHRnHgF+DGfMdzEKLQmFC13y5PCGVi829Wdv3q8nyFxzAHXA56iRtlb3kNmp1mnK57qaVcimw==",
+        "shasum": "5ac0afee2c116c38ad18fbf8bab69218be811674",
+        "tarball": "https://registry.npmjs.org/0xe/-/0xe-0.0.0.tgz",
+        "fileCount": 1,
+        "unpackedSize": 32,
+        "signatures": [
+            {
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U",
+                "sig": "MEYCIQCnHK/80y0OMifm/mh15okwGmrsrhDli+YL2653X6QSpwIhANLstMwXEEXJ/VFIfdMFa5b0kZhu8D0okMCx6lZVH7vq"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "nicxlau",
+        "email": "npm@lucxs.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "nicxlau",
+            "email": "npm@lucxs.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages-npm-production",
+        "tmp": "tmp/0xe_0.0.0_1747542836785_0.09746709621024818"
+    },
+    "_hasShrinkwrap": false
+}

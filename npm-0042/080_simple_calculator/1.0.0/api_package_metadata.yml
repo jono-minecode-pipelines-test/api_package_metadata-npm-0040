@@ -1,0 +1,56 @@
+{
+    "name": "080_simple_calculator",
+    "version": "1.0.0",
+    "description": "A simple calculator with typeScript,Node.js and inquirer",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "080_simple_calculator": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": {
+        "name": "farahAlmas"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "inquirer": "^9.2.16"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "080_simple_calculator@1.0.0",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-+n9JzxmFF8IShRUjcyr5c72Ii8iR0OSvHkxeY/Ip0huexZj4a0xe05eol1ykkRoJhMYHLIO7xWa8Fr+9cdXMdA==",
+        "shasum": "2143b86ae6e6adcd91baca107d4e6018a1cc407b",
+        "tarball": "https://registry.npmjs.org/080_simple_calculator/-/080_simple_calculator-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 14748,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIF7wOQJXaq5xPWtjURW3vkO+5qGl6LwZyGQBX8gDWM3cAiBZID7fhRNS4Jf++RMxR8ETlIjFh7Ivi5N0iIyhYK3TTw=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "farahalmas",
+        "email": "farahalmas080@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "farahalmas",
+            "email": "farahalmas080@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/080_simple_calculator_1.0.0_1713010734641_0.6866389849770573"
+    },
+    "_hasShrinkwrap": false
+}

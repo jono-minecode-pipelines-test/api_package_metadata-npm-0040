@@ -1,0 +1,42 @@
+{
+    "name": "18",
+    "version": "0.0.0",
+    "author": "",
+    "license": "ISC",
+    "_id": "18@0.0.0",
+    "maintainers": [
+        {
+            "name": "front",
+            "email": "136177121@qq.com"
+        }
+    ],
+    "dist": {
+        "shasum": "a3d0f4a3716c60c77f4158d8b53262049c6c2082",
+        "tarball": "https://registry.npmjs.org/18/-/18-0.0.0.tgz",
+        "integrity": "sha512-2SPMA/ciHy16yY4uVXDrW8q7nLwb2F2Vrt8Qz5OiVo9cyC8Wo8/rwC2hDzbqlTXhIwzt2Y4yJRLem6XMNbT/3A==",
+        "signatures": [
+            {
+                "sig": "MEUCIFk5/ol/zBbhCwWzWBtrt3Frwu6m4jW9XmwLdmTI7ONqAiEAnZQ+0/o/EpSjJR4DI64dXfuDbajZq3GXfcxMyUb9ClA=",
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+            }
+        ]
+    },
+    "main": "index.js",
+    "_from": ".",
+    "_shasum": "a3d0f4a3716c60c77f4158d8b53262049c6c2082",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "_npmUser": {
+        "name": "front",
+        "email": "136177121@qq.com"
+    },
+    "_npmVersion": "3.9.3",
+    "description": "",
+    "directories": {},
+    "_nodeVersion": "6.2.1",
+    "_npmOperationalInternal": {
+        "tmp": "tmp/18-0.0.0.tgz_1467335958939_0.4173686334397644",
+        "host": "packages-12-west.internal.npmjs.com"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "name": "1901000commander",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "bin": {
+        "to": "index.js"
+    },
+    "dependencies": {
+        "commander": "^8.0.0",
+        "inquirer": "^8.1.2"
+    },
+    "_id": "1901000commander@1.0.0",
+    "_nodeVersion": "14.15.1",
+    "_npmVersion": "6.14.8",
+    "dist": {
+        "integrity": "sha512-y4oy5/OlhljfX2g0VCaAl38NCuCcPfH+kBRdZhyuN5/0ho14nlA1OatjEj+7qhixBr/wJAKPEjfQQrMaPEY78Q==",
+        "shasum": "588f9005486965b708c889a45322ec6b11fc116b",
+        "tarball": "https://registry.npmjs.org/1901000commander/-/1901000commander-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 4338,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJg9Ba2CRA9TVsSAnZWagAAQzMP/jEozEL8esJGr6yMIod3\nbTS5x7LAPHPRy++ehNirRipSEaR7URPGo4uUn2Cz+gKL8elO53CZ7bOtaZvV\nHQ4sLjeMYJHmXodRQM5h+IJCJEZIas7XYTvVZnRh/h9bihZN6mpkAI0eb2gO\nhhqNfa3EnpV4ZjDjFWN0N4/FTT0vNHtoHCvqD3crFzydfXoW46gg3mrlyy3/\nu20HEqT6+V3hDPnXVSce0xAcI+2Nwtm4ViwtcHzbf0XVuQhKiwX2zQvWOWX6\nXOSujbq81pyYDUTrt6dUp2/WmCAYnB0xYQoUqc3NQRwcEslmWls/11rjjft+\nOhyXDG0AGaFxtjrCF1pPFVK0NwXSadOWtFDFO3AP+8ZhO53mmh+sOsSSuPiQ\niaQGW2v7+MbNVccT0I2jM3bx9cCykwkJsSkLy+lla5jZCYU929nhJvKZ/5ja\nzlOGaRnY8NHxednVonGBt5cvvh/pKYmMpFMq9dfNd5ehg4L65F+r6cB4OPvQ\nm7deYu3ZFvKTCRe1QHSB2Geri59xsqh88DPZpkHkUrJGu+PwyuYpMgbtfbIB\nAtK3CMZrQsu31thje3EmRGqd4c5il/5gE1VdDDn2J0eRk6EpwQtMVHdbYZ8m\njyCumgpPP6RZ5oN7ljnxdwb+F2hgz4FNSYZ8+s8PVsqbP/J9duOIujQ2g7dZ\nILbQ\r\n=j2R+\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDUyKqRalIPvn240jYejMuC5SDDXVRRhGVV9VJxXDRZswIhAKoCgMCdnyDjmyNj3PLIiwSVT5LLZ16823Ttt9LBbP0Y"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "shibintao123.",
+        "email": "2983116384@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "shibintao123.",
+            "email": "2983116384@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1901000commander_1.0.0_1626609334111_0.7488566017863001"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,45 @@
+{
+    "name": "11.13mo_dome",
+    "version": "1.0.0",
+    "description": "",
+    "main": "demo11.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "11.13mo_dome@1.0.0",
+    "_nodeVersion": "16.11.0",
+    "_npmVersion": "8.0.0",
+    "dist": {
+        "integrity": "sha512-GeW5+YhxIA9pR9EOmjBC3B130EeBRxpYiwJ/ggfwsoLbQIzvbPjh1Llu4ljBhFkhpbTz89DtFpNK5src8vOhGQ==",
+        "shasum": "af3d4afea578284342070fe8ce17db0f42a852e0",
+        "tarball": "https://registry.npmjs.org/11.13mo_dome/-/11.13mo_dome-1.0.0.tgz",
+        "fileCount": 10,
+        "unpackedSize": 10512,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhueQfCRA9TVsSAnZWagAAe4oP/R7+0hxeRwI+D8/LKljg\nrXbKZ4twHeg+VuL+iPWFLXFFVlxwnBjfWzhXP1Oh6Wu2BZ2P3NDXMWfAf4sX\nS0eaTugWA4zg0vO+Izb2h3fIRYxWUPVEZjQp1MF4xe97R74mxJY+ivIl2vvu\nA+n9f8en5YMTEajlGIniMbDu3wS3gJzRJ0+TUGi7sJJvdPzDMfnC51604WyJ\nvW2QAXobKb3ORZv578UmkFY6pJSRJjKLcy9+Ei2N6sd8lCv0TNtcJcdk6mmy\nah3BI9QMVmDQGsygC6ZiVbcLLKwPrdHtE853uRPkvqdOLILaRgFOR9G7OjDD\noo02cq86MJPOxFZeO63n8lxoSgY/DisTC29+dcRaAEAy7i2MHECh5vN4EobV\negmPRP8257KzYMC/aF9eg2pf/3d9orMWszKeRx2k6cxV/x9KlJJLVm2Z8rtO\n7UzW3vvrY+um3JxRnXIyR2A4EHCQHOl7zbmMKwZw0iHxj5gzLjzrT7q+TyWj\n6heCy8/J/oZHAkYo+vVGTHAx6ZuFnvOI5NIRKFMt4JK5auuoiRjnQkOEXqw4\npx2e79dgIwJpG3yrx8wssAe2wvqjVNdzcpQfSHBvY8GXToRHwy5rMpypt6mK\nCbVu138kUgqzctaqYrzV2/Jla3JY/+NDmdn0mVs8GQosP7MXJs11qEewxHUR\nJqcJ\r\n=yeUY\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIAPHFeclJOwmrWzsj3Wfbygpr0cqDo3ycbiYMLcWA0rUAiBMBS14LClEDgEu9QDg1ib3Qjun94T9sl2WVZH+Yl3d4A=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "zhangqian000",
+        "email": "3459697331@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "zhangqian000",
+            "email": "3459697331@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/11.13mo_dome_1.0.0_1636934500782_0.9856574414118668"
+    },
+    "_hasShrinkwrap": false
+}

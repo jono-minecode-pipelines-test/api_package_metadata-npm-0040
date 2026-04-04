@@ -1,0 +1,45 @@
+{
+    "name": "04-lion",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "04-lion@1.0.0",
+    "_nodeVersion": "8.17.0",
+    "_npmVersion": "6.13.4",
+    "dist": {
+        "integrity": "sha512-cKRjoyrKgYYwpeUUtEwPtFQtkIEbllzsr7JiZPKordcsbTqKFyCZVraDpSuIVeNKWRDGpAdEoqADUwFuC9UwSQ==",
+        "shasum": "8326e822371a42c45136f1864e7be6343906a434",
+        "tarball": "https://registry.npmjs.org/04-lion/-/04-lion-1.0.0.tgz",
+        "fileCount": 1,
+        "unpackedSize": 221,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJgzyRoCRA9TVsSAnZWagAAxFQP/3rsv3H/4zZvsWspvHzF\npake9O3gPnd0gnz6fKG9QnxRmvYJq0lKOBDHKS2m/GTk48rnQy1l1HepFb2Q\n3er/IobXReh54Q5/ssIFnArPDemO5AZnI+9XW4tX0Ex4FUo42zuSMabpJ3oB\nv4V5l25lzrnAw8BaN6jLMPnz0fLPWAgDE8VruNO17qI5zsYNXdMdXJ6mUjAT\n0kV51/th3B4QeFxox7Le7Wxe/Od1bOssdDZZynkbYR3gWcfZF0TpZspUPJYa\nIgmV4rLfRt8zfdA8WjgtcGhN4ezHYWM46t96o+7g6nAwgmvkVJv8Fz7SVzRK\nepSB74N0D6HxEMxUXMha4xHcDf9N5cqpSJd8pNTirDJmzscsJp3H6JUBJBJQ\ntMaEccWqXktv0e7w6GGtoioJoexzftbKeKovg2XpOHBdjRbHvHT1JW/8TIxC\njiXiSP744bvAFqS1t7Y6Qk9ulVTRpz0OUttBFTZ9fbRwRz7C6KVHzwTAvqno\n93ckRUd8BsKRiPn1oQV+0mQUHOYBxEiXfZ/ydmMzgh15sPkS+4w1bqhz2QTD\nGfTFFGVl0dD5jhj3bDYpBK86DVaVZJ3gSGTClp+Lg4G0hKmNzKfKWPHu9bZ8\n6gSJaZSIzsqhHbw62awAaIyGX8OB9NtZPVeDpg+z1lRnXJ53W0Y88XbCWIRH\nb45P\r\n=ixB9\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQD5rinVzpBmD/ls3reH4ldKxHlsOfgztB3W168Hd1rPxgIhANzbkm8SoRGWoefiJDSG2MMPUHZQfV5onAcUHIdfAXXY"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "borisaq",
+        "email": "br.apaza.q@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "borisaq",
+            "email": "br.apaza.q@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/04-lion_1.0.0_1624188008337_0.3867242596058662"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,64 @@
+{
+    "name": "03williammoses",
+    "version": "4.0.0",
+    "peerDependencies": {
+        "@angular/core": "^10.2.3",
+        "@angular/common": "^10.2.3"
+    },
+    "repository": {
+        "type": "npm",
+        "url": "https://www.npmjs.com/settings/03williammoses/packages/angular-app"
+    },
+    "compilerOptions": {
+        "paths": {
+            "@angular/*": [
+                "./node_modules/@angular/*"
+            ]
+        }
+    },
+    "main": "bundles/angular-app.umd.js",
+    "module": "fesm2015/angular-app.js",
+    "es2015": "fesm2015/angular-app.js",
+    "esm2015": "esm2015/angular-app.js",
+    "fesm2015": "fesm2015/angular-app.js",
+    "typings": "angular-app.d.ts",
+    "metadata": "angular-app.metadata.json",
+    "sideEffects": false,
+    "dependencies": {
+        "tslib": "^2.0.0"
+    },
+    "description": "This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.",
+    "_id": "03williammoses@4.0.0",
+    "_nodeVersion": "13.8.0",
+    "_npmVersion": "6.14.5",
+    "dist": {
+        "integrity": "sha512-l+IMwH+XEal1gCG/JRA3sbC7y0wDyt3asGRzSijCxGFeCby70VGy+NtEz5cFL+iPQPI4uFpXoTU5ld1T8v3T/w==",
+        "shasum": "0394278f4fd6b7d4e5b555e39094c6c83c8c31b4",
+        "tarball": "https://registry.npmjs.org/03williammoses/-/03williammoses-4.0.0.tgz",
+        "fileCount": 17,
+        "unpackedSize": 126509,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJfq+xLCRA9TVsSAnZWagAAYiAQAIWHs4bCftcTKlotbcrA\nTTzhkTALtcIonER3uG3/FThUGQ7o/7upKHgGuuxWtcnE8bbIu1I28chxfQi8\nFIzCP/+eY2FW9lvWk3FPP+rZXMGp0OAqhap4ZLyMHyHTQY88MlOigQYnZlhZ\n3IP8GzTAGYr+AQ2aU3DORW46cFdFj0uxFUP6cDWLBc1CvyoVDkXm0Ygb7HV2\nglSH5U3Cr8/WlVJkkr/ZbasKdczgxBwGORICdpfUNOYrUFjOSB+cKdB1k6oh\nKTK2ux2CqGTmKZw/atFdFBca+PVnBI6zEtM6ihAENNLvKiYr73cu3tuQ9pTH\niEVt7OkNoy3v2PTpDq8na2DRgbQW2JFCZh7YVow/HeDiH6M5ZgME3N7LYFSt\npxZcgMZt0RVExfzRXEWADQhFq4CY8RapWpmZD+IkucecGz+NFgitWg01ewJq\nwpTDkKacBdvS2gOLGNZAUpN1J5Ra1Hiu0OVZ2nnFJd2slXbl/cJyuEIvTyjZ\npm3SYxGyXDYofev43MmZtU+aQkMebh3xo4ghXmovKvvBQt6/ZTjKm0Pq7qTJ\nNxWr/IKt82Iq2S2GjgLdHxi7N+G/9VP6r3LwYaVZshWZ9P5Gz7MbRzhfK+PR\n1MhSzxz8OPONuqPaU13ZpFVkb0hJp/5qE8qdNviOwQbX2bI4aCW6ZTktjZhN\n1fvG\r\n=npRE\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDS4M9sFYCyq42o6oBtHI9aGg72sp93n7CGFcQwQUI/rAIge7lDIMQw8a58wMGT0fle2GCaeXvmWwSm7iFAg6Vxvuw="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "03williammoses",
+        "email": "03williammoses@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "03williammoses",
+            "email": "03williammoses@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/03williammoses_4.0.0_1605102667144_0.2663761000023219"
+    },
+    "_hasShrinkwrap": false
+}

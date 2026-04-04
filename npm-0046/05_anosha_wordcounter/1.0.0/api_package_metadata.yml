@@ -1,0 +1,55 @@
+{
+    "name": "05_anosha_wordcounter",
+    "version": "1.0.0",
+    "description": "This is word Counter App",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "05_anosha_wordcounter": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "anosha"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^9.3.5"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "05_anosha_wordcounter@1.0.0",
+    "_nodeVersion": "20.11.0",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-IwMUlFthCN/JukmrIFgktoQEGit5QmB+se3R5su7KEzD9n+F5sU0xwWApMSP7VSL+TlMevixWohp+2M1bSxkvg==",
+        "shasum": "d5a0d2b9b4432cc7d8bdb05571819de81c5ddd18",
+        "tarball": "https://registry.npmjs.org/05_anosha_wordcounter/-/05_anosha_wordcounter-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 15992,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIEhIjg6LVf9aRLtj6ouS9jFDBIaETEqYnLk5NogZYMlmAiAh0mwvPDLsVXiXUFdO5FN3WJqY08i9i9mpTOAu1TdJAQ=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "anosha",
+        "email": "anoshasyed18@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "anosha",
+            "email": "anoshasyed18@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/05_anosha_wordcounter_1.0.0_1720377933817_0.5005750352942453"
+    },
+    "_hasShrinkwrap": false
+}

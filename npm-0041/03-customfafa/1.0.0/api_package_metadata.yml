@@ -1,0 +1,48 @@
+{
+    "name": "03-customfafa",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "lodash": "^4.17.21"
+    },
+    "_id": "03-customfafa@1.0.0",
+    "_nodeVersion": "14.15.0",
+    "_npmVersion": "6.14.8",
+    "dist": {
+        "integrity": "sha512-G8NYhD4g0Jb8omoVR/V/0v1EuXmjpnvx7wJcHuS3VrohsGfsjS2XNc4NARt/CvjfF0QzAYwUtWUQFrkFsbkAmg==",
+        "shasum": "a0faf0bba248a0c3d14d20936742a23d1aa554e5",
+        "tarball": "https://registry.npmjs.org/03-customfafa/-/03-customfafa-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 501,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJgpOFkCRA9TVsSAnZWagAAjaEP/0D3iajclEE559YQO8cH\njkT9eGKhadpRyVv7WgfCXJRpHnQF6R24LnlZcFkWByNtzSNkH7p/hvl4ATcY\nsKVM0SblhZZiJGWxpsmXxhZGwcDtBEisUeG6PqLcLt7vi4K170wYg8paiHcV\nUURymT7+5vqPGL7Vy1T3ePSaNq+cfUPdBWGZtAH6/VV2RRrhGjZ7ngDme54j\n1kLAFTNnqTkqU0A/5kiz/O8abDJRWKAvpnmjYHBysF6IX4QUiZplT38CWtMZ\nYks7JXSg7R4u0ezojBvwsCDBbMvCVoEg2iYP3BOeYIPF0/ckzYuUuGpz/dNU\nfsZPvvI2sGrncepePJF4qUeiO/sEyzayDSdhkyojSbN29z6KJ+QrzB9c3eXY\n0bqUIj0aYF2lFP5YeQTRCXLA8SwYiVYAk+DbxuTQP27fIcDr9I7BJrQxIFIB\nlcRhdTnNTjKVFqHUrKgVj1SrbcBl9hQlnubsEQ1CdsFdpcQF0yui0JLYzdtM\nm1HYSCeeoJOTv2onDQzOE51CDVZp/PXDCKKykpH3rOTuoG5d4qseQbCLdTJE\n1YAJR5MAvuxly9L+5ZiDorH0F060k+ePo5nPMYre1O6+C/Ldc0myRRlJ/IDU\nobU2Z3LMvrHavay46nLVBHojs6wousPtdlvefm/oBYbMUxzc/cb13ZDwxQX5\nUn2s\r\n=Rh2D\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIBivevc1IEF4HVTrSK7iCp3mkvLkJEdVncoR+1QWo9nnAiEAn7TlXE9GfoXrdvXzrDm4k5Ac2GgaxEVm/+ZfljZo2rw="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "fafa123456",
+        "email": "1358353633@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "fafa123456",
+            "email": "1358353633@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/03-customfafa_1.0.0_1621418340507_0.18390743276391852"
+    },
+    "_hasShrinkwrap": false
+}

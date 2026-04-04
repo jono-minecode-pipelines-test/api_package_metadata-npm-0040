@@ -1,0 +1,53 @@
+{
+    "name": "04-class-atm",
+    "version": "1.0.0",
+    "description": "This is a ATM",
+    "main": "index.js",
+    "type": "module",
+    "publishConfig": {
+        "access": "public"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^9.2.20"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "04-class-atm@1.0.0",
+    "_nodeVersion": "20.12.1",
+    "_npmVersion": "10.5.0",
+    "dist": {
+        "integrity": "sha512-nmYG5Mzd2co0lDhflpf83EfHH2uiWkVNi84IrzQCg6x2vN9gaPWxzAhh8t1yjOtP9LknAYTFby93PYBoxZP0uA==",
+        "shasum": "ff9b1bdc7675b75fa37b9577f4369aef645bda26",
+        "tarball": "https://registry.npmjs.org/04-class-atm/-/04-class-atm-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 13918,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCMbejD2LYLEu9WWfXZPD+MNEi5caSHetI8MdPIOczq8gIhAIj28AbznFnha74vdac7OlK5i5JWRwrD1GRxv/+moDoc"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "aliaalmas",
+        "email": "aysharani2002@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "aliaalmas",
+            "email": "aysharani2002@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/04-class-atm_1.0.0_1714587550286_0.9592256928014984"
+    },
+    "_hasShrinkwrap": false
+}

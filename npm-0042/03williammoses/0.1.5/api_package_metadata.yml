@@ -1,0 +1,53 @@
+{
+    "name": "03williammoses",
+    "version": "0.1.5",
+    "peerDependencies": {
+        "@angular/common": "^10.1.1",
+        "@angular/core": "^10.1.1"
+    },
+    "dependencies": {
+        "tslib": "^2.0.0"
+    },
+    "main": "bundles/03williammoses.umd.js",
+    "module": "fesm2015/03williammoses.js",
+    "es2015": "fesm2015/03williammoses.js",
+    "esm2015": "esm2015/03williammoses.js",
+    "fesm2015": "fesm2015/03williammoses.js",
+    "typings": "03williammoses.d.ts",
+    "metadata": "03williammoses.metadata.json",
+    "sideEffects": false,
+    "description": "This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.",
+    "_id": "03williammoses@0.1.5",
+    "_nodeVersion": "13.8.0",
+    "_npmVersion": "6.14.5",
+    "dist": {
+        "integrity": "sha512-Y0zn4LtNMkSi7oF9/f8l+/LWHB0YI+0D3yLz+yQFff5IjQFatvqhU6MfFGysJ8zHLPp+HWMingk3iKsv09eNlQ==",
+        "shasum": "dca21a5dec1d8df8666b9cfb7d966d9b9d499e6a",
+        "tarball": "https://registry.npmjs.org/03williammoses/-/03williammoses-0.1.5.tgz",
+        "fileCount": 21,
+        "unpackedSize": 135231,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJfs2TnCRA9TVsSAnZWagAA5FgP/iJYH5TXNqsEQGjPIUSX\n6bcfcSrVZoJeTXYJD3ZGDQcsI3LigyiR7N+kaT5pftptFZhSSRH6L4nJr6mn\ngPr1uAxBaZ+C70zlPAeWjoF+J8DJWeUqHTzM9iaNeJgbqmwSl1lmnvZBSmzY\nEuyHRwA6vcBpeWzgVHIdAFfM790AxHZMLcj7TvNsTHafQ5uLbqjUKYDcamJg\nNLqcnLkDgYqdeYtDcmqBX5vOOHiBrTPiYJXUnLrJyGvTz9vOFw99we5mRaW5\nbUT602GcG/RTZh3b19/kz/JVpuXDpPxCvWW4gTHjR/W4HFbDf1Uj4JpVPulU\nzzZP7VcPprKYrqO/yf92U50drYZWjqZxYjLanVOUN32V09rtZ3B7ZgQCIqn9\nuiz65acczDtkGb6WjuLCDVi+0c/7UYjpIwl+AypSJtjY1Bn0FTq7blKsfcxg\nyz1Z5mgL9lWgGPcy5ewzdbr8xm26mrPVDS8g2kwmDnjHkgXOB7mkVz848JB9\nzhGo3BYgQw0aYzIdIh8ZD2gpupPc26m5n3qhkrwH6zB5KAWcxsffuEUZQqtv\nghI27D91NU/xWJCvvQ9GHnBr+s0BWuTpsKEOfobhSmezHvM8pE4o0dRecB/G\ni/1vf9t+q+XqQL8zzmxCLXYQn7JIcS0lDtqS5e4gbrPUiFrLpMI0q4tZqMJW\nxChS\r\n=7E6G\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDajyud/5jTbtx7Gs00AYSjd+YS5cwqhs4P8FaL5k0NaAIhAM/f1pPDyatElAOo/Yi5Hv6UbOm15Czi+cL72+/5zdYt"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "03williammoses",
+        "email": "03williammoses@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "03williammoses",
+            "email": "03williammoses@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/03williammoses_0.1.5_1605592295382_0.6175100231519495"
+    },
+    "_hasShrinkwrap": false
+}

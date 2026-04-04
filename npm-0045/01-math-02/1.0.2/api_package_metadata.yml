@@ -1,0 +1,50 @@
+{
+    "name": "01-math-02",
+    "version": "1.0.2",
+    "description": "",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "http-server": "^14.0.0",
+        "webpack": "^5.65.0",
+        "webpack-cli": "^4.9.1",
+        "webpack-dev-server": "^4.7.2"
+    },
+    "_id": "01-math-02@1.0.2",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.12",
+    "dist": {
+        "integrity": "sha512-WTn690sHVNuRo/GA9g3j03J9QjRdPeqrIZfDvHjXUSvdP9oEhLR8rV9IzsNzORjMIiV+e/weBw5esaAot+jhQA==",
+        "shasum": "3eff7fb3d13a5dba11d545078b4ff8dde9bc1c21",
+        "tarball": "https://registry.npmjs.org/01-math-02/-/01-math-02-1.0.2.tgz",
+        "fileCount": 6,
+        "unpackedSize": 3767,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJh3t7OCRA9TVsSAnZWagAAh5IP/inBdwhHxSh4matk6mhq\nePIS1mPbkKHT78Ix5/NqGCmtAMkAhI43cGPj1dXywKReAchewFgWhZcmZbdk\ngh9TUxXwKZRzEc0b2hULBbfyYpPxZXo4MjEcSMCplbKSENhcflxPLXIkdnZj\nA/LhmRElKWaWymUuB/B5RhNqnk+9pm5rUMzvUldU7k3uZj+dPgyM+3L4kTTw\nNFz9tWtZ8R9tTPafoe387faEm4FYegIin3FthOXgX5SqQ9U3JCn7t1zRdtnR\nvraFAgO0idMJTqNzGhRNTDIFe9uSMOMT2GnX4MBYbZIhnwMe6CasCigDOtAw\nS/ZSiPweWOhvdzqj2ZApyqSPGFSt6wStL4D6l3fUDmUyZCyat0NZGPJZLgLf\nXJiS7FuEA9CFAXkCuit8JkfRLIgSWYqAPh8iFBjy0MQWjYts+wNpxsLITgHQ\nYI5WucA/9X//K1fI4DVWpHu12caxO2uv8gklkIcRCqhCsgyEaHlMWF+FVAzm\nYDcaeBQqUe0sklOCGarIPpjdHhVdFyq525tPRLDoQ3tk1X1RcDWRy4On9nx0\nJmMU2DGHs0d+FzBbXIzuKwLBVkk1vimPO/J35JYEQK6IVyg1ZxI2DXCECX8o\nURjV7Lm9kkLmEU4mw1bPEryb4vv5mq88MiktAmO5tVeTjQ2QCOkFTXHnWbn1\nSPHO\r\n=HKMp\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIHRDQcvoLVTBhtRySPoZfmj3TTXDhLAubK7XbuvRDkMDAiEAp+ui4zus8HnqyZmEYEISu3B9RjZdQU7OPdZBHmXv2Pg="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "silentjesse",
+        "email": "303852282@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "silentjesse",
+            "email": "303852282@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/01-math-02_1.0.2_1641995982642_0.8100888066953458"
+    },
+    "_hasShrinkwrap": false
+}

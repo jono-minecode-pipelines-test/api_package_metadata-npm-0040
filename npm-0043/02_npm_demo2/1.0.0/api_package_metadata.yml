@@ -1,0 +1,44 @@
+{
+    "name": "02_npm_demo2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "02_npm_demo2@1.0.0",
+    "_nodeVersion": "18.16.0",
+    "_npmVersion": "9.5.1",
+    "dist": {
+        "integrity": "sha512-JMdFBglw1E3/5ul3XmFE5s+Xr+JDz2Kvpb7aPDlPUgSRK1KSupQCGuX6/wjM9UBOqNJX/a9wz09Z+7W/zxnBOQ==",
+        "shasum": "66b9afc4b9ea1028d90ed008718ca3abf0d27e17",
+        "tarball": "https://registry.npmjs.org/02_npm_demo2/-/02_npm_demo2-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 307,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIHyc3aAGhxq4By2LqYnKHcwX9EkVsyNIYdhfQtIDRwzaAiEA/zC9gAwVcLdok06Ln7Dp295oydVMSJ7SR0ZojSV0A7o="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "lgl1",
+        "email": "2207117609@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "lgl1",
+            "email": "2207117609@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/02_npm_demo2_1.0.0_1684294888304_0.10224544096867305"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,53 @@
+{
+    "name": "03williammoses",
+    "version": "3.6.98",
+    "peerDependencies": {
+        "@angular/core": "^10.2.3",
+        "@angular/common": "^10.2.3"
+    },
+    "main": "bundles/angular-app.umd.js",
+    "module": "fesm2015/angular-app.js",
+    "es2015": "fesm2015/angular-app.js",
+    "esm2015": "esm2015/angular-app.js",
+    "fesm2015": "fesm2015/angular-app.js",
+    "typings": "angular-app.d.ts",
+    "metadata": "angular-app.metadata.json",
+    "sideEffects": false,
+    "dependencies": {
+        "tslib": "^2.0.0"
+    },
+    "description": "This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.",
+    "_id": "03williammoses@3.6.98",
+    "_nodeVersion": "13.8.0",
+    "_npmVersion": "6.14.5",
+    "dist": {
+        "integrity": "sha512-VB7WQsFJAeAMAcEQNLGTav02/mjCfciyvjIrsw/+2lKXqE6Opn9zhJmqXeY2mE+v2qvEdR86d3spy98fx4Glsw==",
+        "shasum": "55b054cc2df18916e74a12e249d4c50d0e41cd56",
+        "tarball": "https://registry.npmjs.org/03williammoses/-/03williammoses-3.6.98.tgz",
+        "fileCount": 19,
+        "unpackedSize": 63582,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJfq+flCRA9TVsSAnZWagAAFyoP/3SD0dfUPlH/GALcDve5\no/chcxtat6OLm2Zk7Brkktw5LBJZupusabKUCbwdz9/dRjiz0dnejXboVPTr\nfqcJjujY61sotpD1vYoVHCPMnoGXX9OFWpAtxoD45k6xdspS6sz9U6kC9+6+\nq/xjtdK+qgF/kBCV5Krp7oFcHWS8NYaz4g6QJA0YF/cK194Up+Dff3LOWtd/\nwERgTzx/BebTv6zg0ZWrg4l+K65pC5f68FR2cBPtI+rnNA/1r/4eu9xykZ70\n0HVxPbnv2yRS8xdjw9og6KXun6OGrG7McaV9wBo7g0no0uWF5AQd3B+ASaot\n5x+X7jBJNy8LB70h42jznjKJQCHOD1nzKc3zRzSvV33U4Ri3qqL7ay7vC90I\nJ10qzO2GMc8il2joj/nu1Od3ptqg3ptPT2RB1rMcCC09hvwd7tyUHWM3loZ9\nnJ5zk78leoB6+lfmqPhPKmTOquIQdylX5Od/6CqdIQri5W/5HZCaZ0hOSy+r\na4KdZcLxrRuClBug1j7EypMz/mqm0BQreAiVtXs3PnsqYFtpjopS+5v+FLcp\npkJNHXJzMH0vJm8xjy2JpwtneXA6cGjj0yO8tSsarvtr81UJ9xOPqcp+manA\nRFgpF0puXDPOzVy31hjziFMLF3saavvkt564wCjGIK1zqjiPk4A+zXhfBcHz\niz3U\r\n=HRJh\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIB5xCxyDhEp/2XpaMVJgqRUSqSwNDjHSCB5K9uMGuun6AiEAuvYGAC1yGZKH+5LbXMBdnkPxOOv8DnQcieUzfPk2lvo="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "03williammoses",
+        "email": "03williammoses@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "03williammoses",
+            "email": "03williammoses@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/03williammoses_3.6.98_1605101540870_0.3964017553048109"
+    },
+    "_hasShrinkwrap": false
+}

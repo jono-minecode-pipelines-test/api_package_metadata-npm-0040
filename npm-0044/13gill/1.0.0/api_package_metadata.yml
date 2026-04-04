@@ -1,0 +1,42 @@
+{
+    "name": "13gill",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "_id": "13gill@1.0.0",
+    "_nodeVersion": "20.6.1",
+    "_npmVersion": "9.8.1",
+    "dist": {
+        "integrity": "sha512-ppykXpE2ci1a9iDVgU8YBmWcnSjLxNhU+0TQLdwCz3j19DJszWg7fZCMHf+1n1SCYF6afTwWSj3jnGALbezRVQ==",
+        "shasum": "58c8a32ac7c5888d223691674bb80c2086ff93f8",
+        "tarball": "https://registry.npmjs.org/13gill/-/13gill-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 279,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCdUlnzu6oaMqLxlGu281xwB3BipZ1WDQ3w8A5nrYA/cAIgYA28knBDYh+1tOrWgQaIUHLkQuJDRTT72PGpYuXfPnA="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "manpreetgill",
+        "email": "c0863582@mylambton.ca"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "manpreetgill",
+            "email": "c0863582@mylambton.ca"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/13gill_1.0.0_1695223614295_0.23444785851971184"
+    },
+    "_hasShrinkwrap": false
+}

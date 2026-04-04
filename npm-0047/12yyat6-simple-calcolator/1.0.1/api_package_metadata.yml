@@ -1,0 +1,55 @@
+{
+    "name": "12yyat6-simple-calcolator",
+    "version": "1.0.1",
+    "description": "A sample calcolator with typescript, Node.js and inquirer",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "12yyat6-simple-calcolator": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "muhammad salman"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "inquirer": "^9.2.16"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "12yyat6-simple-calcolator@1.0.1",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-Qry5ANfXa2iiEdhYTMdmi/ShXtP8fjhYYDzDQdWenEwNWrw9v6Xy1QZG3ZI56lEXoqbT1KSsr0QIZeqoUeqOhQ==",
+        "shasum": "8ab180011d4c68cdcb27ec257677395d42250a11",
+        "tarball": "https://registry.npmjs.org/12yyat6-simple-calcolator/-/12yyat6-simple-calcolator-1.0.1.tgz",
+        "fileCount": 4,
+        "unpackedSize": 14807,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIG+qauZL7E7326Gnwgk9+yOwCbLdvaS382d+JUOfNG02AiA6Aiuk5/SptamKIf2Mpe+3Q2lxL3K3esMViZPHVfekvw=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "7dmsalman",
+        "email": "saeedsalman897@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "7dmsalman",
+            "email": "saeedsalman897@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/12yyat6-simple-calcolator_1.0.1_1711539843867_0.3508651517496557"
+    },
+    "_hasShrinkwrap": false
+}

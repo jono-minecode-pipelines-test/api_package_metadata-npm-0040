@@ -1,0 +1,42 @@
+{
+    "name": "139wushidong",
+    "version": "1.0.2",
+    "main": "test-btn.es.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "_id": "139wushidong@1.0.2",
+    "_nodeVersion": "18.18.0",
+    "_npmVersion": "9.8.1",
+    "dist": {
+        "integrity": "sha512-qEp4NspLn4g4n04MAA7S0+wPi+BfMP+F0YPBP1lyRVBkH0N60xSB2P7e5UVWQy2DGmmEh11zT3vT/X9tgC7ugw==",
+        "shasum": "64a5211381aeb4676f04d4df581109257f07a0c7",
+        "tarball": "https://registry.npmjs.org/139wushidong/-/139wushidong-1.0.2.tgz",
+        "fileCount": 4,
+        "unpackedSize": 4115,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIA8V3TbzOBgZNibfeQJf8V9RF9j1o9rsAC8Wv4tUunJcAiAjqh1G/X+Sts2paGq2rSz5g7nkq40mjEDpS7QP+Pj5/Q=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "0758wsd",
+        "email": "qqq282580530@163.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "0758wsd",
+            "email": "qqq282580530@163.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/139wushidong_1.0.2_1700033582834_0.8208977290552397"
+    },
+    "_hasShrinkwrap": false
+}

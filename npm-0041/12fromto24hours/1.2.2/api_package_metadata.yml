@@ -1,0 +1,76 @@
+{
+    "name": "12fromto24hours",
+    "version": "1.2.2",
+    "description": "switch between 24 and 12 hours made easy.",
+    "main": "index.js",
+    "scripts": {
+        "lint": "npx standard index.js --fix",
+        "test": "mocha",
+        "cover": "nyc npm run test",
+        "ci": "npm run cover",
+        "postversion": "git push && git push --tags",
+        "prepublishOnly": "npm run ci",
+        "preversion": "npm run ci"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/3imed-jaberi/switch-12-from-to-24-hours.git"
+    },
+    "keywords": [
+        "time",
+        "clock",
+        "24-hours",
+        "12-hours",
+        "from-to",
+        "convert"
+    ],
+    "author": {
+        "name": "imed jaberi",
+        "email": "imed-jaberi@outlook.com",
+        "url": "https://3imed-jaberi.com"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "chai": "^4.2.0",
+        "mocha": "^7.1.0",
+        "nyc": "^15.1.0"
+    },
+    "bugs": {
+        "url": "https://github.com/3imed-jaberi/switch-12-from-to-24-hours/issues"
+    },
+    "homepage": "https://github.com/3imed-jaberi/switch-12-from-to-24-hours#readme",
+    "gitHead": "f516936c8090a4b370aafbb6e35660e9554d57dd",
+    "_id": "12fromto24hours@1.2.2",
+    "_nodeVersion": "16.13.0",
+    "_npmVersion": "8.1.4",
+    "dist": {
+        "integrity": "sha512-HgQ0GKVxEIihriLUs8/Gr7HbFeCvopr9Pm1k1rsvaZnkJ2cGNFLtYRMM5iIMb3KmXw01CvT5qsD8YOjGs9/2KQ==",
+        "shasum": "c35ce5ccdfd1d6390952fd1bc24b4c6999faf4bc",
+        "tarball": "https://registry.npmjs.org/12fromto24hours/-/12fromto24hours-1.2.2.tgz",
+        "fileCount": 8,
+        "unpackedSize": 11108,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhn5qrCRA9TVsSAnZWagAAeWMP/icWxsUTRDNp8ki+S84k\n0+qF/xEBa+sx6wywNF+CYFICfO42/ujuAarqcx7T//rqYkaQctLkLmKvAIjK\na4bwvdfNDRYzuOlejYBfsOsRu7etGwGeLeA7OEusnjcfF9dIbMBgzCG2QS2H\nyFspfl1/Rfs6rJLNyuK0G3/YYMXCEKfRx48U1NrGjXSYwhZgoN6pyZW76si9\ndhOnK2/zcpRDN3JnYOIibLoWxfXSycx8Wg2rN+iPgfbj9xzqg1tVtq25DuGR\npnH1+LUB2V0syBx27P22xpRo8Yhg/OiPkuIAM0FdGn5BwzzXcaPkFhV2lrTg\nQ7ox8WqJ3kpYitHq9ZnWGZLXY+GsaBiXMfsdkrZCIITwZWKrI3d2YfFEiNAg\n2xZ4dIXHCGGQ5Q50rrh8b5xh4pmhq5fdlaPgFwhcZ0/XEoPWVGeKBw4PkaGA\ncH4rcSLQ3woa0acYXbaED3+8cBKtB399sgZknMTAgON6Q7PBWzi1YQCqE4Lw\n9fFWzV16AWg4Bx1sucqZ3Vog1wfVS0VizdwdWs5lMlM7XY75l23wmF1FUuvU\nGSCZoYhBlsDQutwFyZVEc+/gbjyoWKmg2n8mtt9COBxpm9EHzR2yscNWx7vl\ndpHZI4nJYgZGGOLjrxdvgGrZTJyrOFMu8OQFW/asY8QUKP73FEruJQGGnKog\nqh1G\r\n=sJ41\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCvm5mPpJjYFnwSTsai4UPLUY/OdU9AZPaWJECD9xCJfwIhAIpQD58W1yM+R71dnjnt+bVXMrfYPgUFztcPj4+nB8By"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "3imed-jaberi",
+        "email": "imed_jebari@hotmail.fr"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "3imed-jaberi",
+            "email": "imed_jebari@hotmail.fr"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/12fromto24hours_1.2.2_1637849771293_0.9399477639190961"
+    },
+    "_hasShrinkwrap": false
+}

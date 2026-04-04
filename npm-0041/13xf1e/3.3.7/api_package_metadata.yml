@@ -1,0 +1,45 @@
+{
+    "name": "13xf1e",
+    "version": "3.3.7",
+    "description": "13xf1e",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "anthonywilliams43se"
+    },
+    "license": "ISC",
+    "_id": "13xf1e@3.3.7",
+    "_nodeVersion": "16.14.0",
+    "_npmVersion": "8.5.2",
+    "dist": {
+        "integrity": "sha512-dMv0YIvOuOI/ROjSoXPo9On8SaFNMIilOns0dfzm4eO0IWygP2AKbmY/sQdZxsMTX8PNqWaaKexURt7TBLBOxQ==",
+        "shasum": "e3400dd295a00b7f0a39db17ac3de858392f7e26",
+        "tarball": "https://registry.npmjs.org/13xf1e/-/13xf1e-3.3.7.tgz",
+        "fileCount": 2,
+        "unpackedSize": 778,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIHZIH14W9a6XbxQT1iE+L5Mo4i1aIXBde47gx4RM+jMWAiAlqRUWGcQ2qiZfDe4ipHOiJQDCOuwxvLE/lrsFo0d2jQ=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "anthonywilliams43se",
+        "email": "anthonywilliams43se@cultureleb.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "anthonywilliams43se",
+            "email": "anthonywilliams43se@cultureleb.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/13xf1e_3.3.7_1683450022034_0.5937524728040853"
+    },
+    "_hasShrinkwrap": false
+}

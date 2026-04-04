@@ -1,0 +1,47 @@
+{
+    "name": "1337qq-js",
+    "version": "0.0.1-security",
+    "description": "security holding package",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/npm/security-holder.git"
+    },
+    "gitHead": "ac50be87aafecba67fcacca3b32bf36a1f8f7a71",
+    "bugs": {
+        "url": "https://github.com/npm/security-holder/issues"
+    },
+    "homepage": "https://github.com/npm/security-holder#readme",
+    "_id": "1337qq-js@0.0.1-security",
+    "_nodeVersion": "13.3.0",
+    "_npmVersion": "6.13.3",
+    "dist": {
+        "integrity": "sha512-lEquvlBUXnG70QinSUY1epOeeAxj2wJ5QjJHCyi0XdCJO+Yu6SwqY0kAe/WpHoRErhMZfjFgL4YqO8YPaYQE0A==",
+        "shasum": "6786a80f1610c96ca80ee1f53dc4e1bcc8a562e5",
+        "tarball": "https://registry.npmjs.org/1337qq-js/-/1337qq-js-0.0.1-security.tgz",
+        "fileCount": 2,
+        "unpackedSize": 469,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJeHL/SCRA9TVsSAnZWagAA5ZYP/j4YGe4XhePjn4hv5K7A\nFOw8fr7FMyLIuEDnR+Rftv4gr3m37leS7kdwqe04g7P78qA/AovDSOjokLde\nN4Cuh2scEnA58XQWQH8HMMslgP1AxJSzfcCdAcWX76/fYeCKpUiJo5LLyFAS\nx7sYJ4QMaV8yp/bMVF7DXNUwcaIH2ranlUC3O9IerIQtWR3C7VlYoytWD+KH\nKono0/p76Ntnf2+iZQ23BHCVIwpaoQAXKI/XMrb5sDe1JpUuPwOXzbhNjozc\nzV0FlpIz0B3Njvly5PLiTQB7+AGbRPIGKQwp7Nm5mKSsaxs6gmJnncWDLg6O\nKKrZGMRlMrafXBehAF9ujItO/4aWVWQiqnHxcmubiiCyTRAt7BRR/nd8w6vq\ntmcho7o5rxFZVrnfpCd8VQ5nN+RikNnGDYRc+bsBO6xAX1lRBeY1g5wrIke8\nHPoHKKlQxu7mZP3JrfiQagNuxcBqfK4UAJm69cKPWvnRekq/uFmryKYLAK/n\nubuPZ4tnJ4oXyjDAiaOucFSl6RBCuscjs8klWO1ObnU8VHoHg/eXEzbGZerM\nxsexLpYrJaY7IztE+25MWv28+K8TQJGM5l+oLdeV3C1I6x53+jzm/7uCFFiB\n8gAms0NLeJ2cYoyWpopZxPsThG2Wxdp74Sxk+wHGM7OORt15DeZzr6ASI9XJ\nJD19\r\n=XTz/\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDgwf9GgwtJamepHQZ5WaVBQqoXhfMI2fhrW6q9EwQUsAIgNmeywbRqfPx8pIYkRF7klK7edtHwZES3NIx+xkfuxrs="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "andreeleuterio",
+            "email": "andre@npmjs.com"
+        }
+    ],
+    "_npmUser": {
+        "name": "andreeleuterio",
+        "email": "andre@npmjs.com"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1337qq-js_0.0.1-security_1578942418144_0.9663120312472877"
+    },
+    "_hasShrinkwrap": false
+}

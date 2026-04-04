@@ -1,0 +1,53 @@
+{
+    "name": "123-curr-converter",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "123-curr-converter": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^9.2.17"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "123-curr-converter@1.0.0",
+    "_nodeVersion": "20.11.0",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-y1sgLLvTW4EbGWF5po7uvslXaf2m7wUOXrxsKx+e0PEahgf2qMyABsmqmSwui9biBjB9OeqxMqMhUmESonsqdw==",
+        "shasum": "cef576a67b8384d3fd96627185699f9f6815ddc2",
+        "tarball": "https://registry.npmjs.org/123-curr-converter/-/123-curr-converter-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 14473,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIBgpcS7KvZvIZClcCPFt12ls3WOkafvSfQDuqXPRdvbnAiEA2aMQ0OjSWF0sB77FmcM8uq7wj+7P3avXS+zmTFXukno="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "danish_haji",
+        "email": "danish.haji115@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "danish_haji",
+            "email": "danish.haji115@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/123-curr-converter_1.0.0_1712347488144_0.48164081288023164"
+    },
+    "_hasShrinkwrap": false
+}

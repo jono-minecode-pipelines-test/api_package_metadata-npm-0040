@@ -1,0 +1,46 @@
+{
+    "name": "114_calculater",
+    "version": "1.0.0",
+    "author": "",
+    "license": "MIT",
+    "_id": "114_calculater@1.0.0",
+    "bin": {
+        "114_calculater": "index.js"
+    },
+    "dist": {
+        "shasum": "03137ce879f5d749adc09eee04a5675c35349771",
+        "tarball": "https://registry.npmjs.org/114_calculater/-/114_calculater-1.0.0.tgz",
+        "fileCount": 6,
+        "integrity": "sha512-D46QtcJzlmrd0WdDqBoWllG6aTc8NGQPOXtv/c0IDsYsG10Zxt3KaDQpuk2UbBxhuSR8svOvZbwt+kHVXBf34g==",
+        "signatures": [
+            {
+                "sig": "MEUCIGJd6fbKFEOei0b4gq0doasjNnQuaEtK4Xw0wdy0Skq7AiEA68bXnRdvcpYFiZba5+2Y/XvjJPnjRhzKuziZgBNp9ac=",
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+            }
+        ],
+        "unpackedSize": 15281
+    },
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "_npmUser": {
+        "name": "p114ali",
+        "email": "alirrbjhh@gmail.com"
+    },
+    "_npmVersion": "10.2.4",
+    "directories": {},
+    "_nodeVersion": "20.11.1",
+    "dependencies": {
+        "inquirer": "^9.2.19"
+    },
+    "_hasShrinkwrap": false,
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_npmOperationalInternal": {
+        "tmp": "tmp/114_calculater_1.0.0_1719549823132_0.0052485672375250925",
+        "host": "s3://npm-registry-packages"
+    }
+}

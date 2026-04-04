@@ -1,0 +1,46 @@
+{
+    "name": "114_calculater",
+    "version": "1.0.1",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "114_calculater": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "inquirer": "^9.2.19"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "114_calculater@1.0.1",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-h1i/b8T6LSZSECCo6HPsnYs1H6r+DN246uyzS0g3z2FQrn5zFG/X0Es633R0F2ZAe8x5Ig4BidsYw3LShv59xQ==",
+        "shasum": "a4220fa3a644a1a4e69ac7a68b6a205236c644a7",
+        "tarball": "https://registry.npmjs.org/114_calculater/-/114_calculater-1.0.1.tgz",
+        "fileCount": 6,
+        "unpackedSize": 15303,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCvSlsMg235qDiS+Zo79o0LZEYqtpweynoGStBrCyhxfAIhAIWXbfCKByqJoYJAi9FiuVA7SD1/JHTe2zkFNrC8ZdOE"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "p114ali",
+        "email": "alirrbjhh@gmail.com"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/114_calculater_1.0.1_1719550197972_0.5194841393246614"
+    },
+    "_hasShrinkwrap": false
+}

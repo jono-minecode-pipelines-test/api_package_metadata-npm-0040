@@ -1,0 +1,53 @@
+{
+    "name": "112-rock-paper-game",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "112-rock-paper-game": "main.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^9.2.20"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "112-rock-paper-game@1.0.0",
+    "_nodeVersion": "20.11.0",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-JygpomGd/q5WpRIoEC7nRaF7gCTfluI4j8PeL+RLymOZQS4AKwjZ9LY5KCH2gM3jn4cqnXhJ+6lH3KlZY4wpGA==",
+        "shasum": "ffbdda5fee9b04ea7fb7d7371f4637a53cfc4272",
+        "tarball": "https://registry.npmjs.org/112-rock-paper-game/-/112-rock-paper-game-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 18185,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIDWxSmlY7ecolHNqtKUh8e0FOXNneSAaERDtgItAsqXdAiEAg3Kpi3p6SSR7geoF/lM1HoB0+1AM7dMC7KUBg7sQCG8="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "sabahat03",
+        "email": "sabahatsabahat1999@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "sabahat03",
+            "email": "sabahatsabahat1999@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/112-rock-paper-game_1.0.0_1715181656822_0.05661873901797021"
+    },
+    "_hasShrinkwrap": false
+}

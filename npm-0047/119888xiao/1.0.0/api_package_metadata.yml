@@ -1,0 +1,45 @@
+{
+    "name": "119888xiao",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "119888xiao@1.0.0",
+    "_nodeVersion": "14.16.0",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-P9Ln6G0XZKiqG1hzbbxUu+bb9lf/o3kmizvZFwMTgsFKFebfiw2YeR9HrmklwatrGeZJYpG+6ETWbNNaGSVcuw==",
+        "shasum": "e77bb8272d02b06e449c3b0dabe6ab49acbf75df",
+        "tarball": "https://registry.npmjs.org/119888xiao/-/119888xiao-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 242,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJgwbpFCRA9TVsSAnZWagAAZ+UP/1HIjLMFioUw+vMMvfmr\nyPLWWNdSHwVqF5xOvlZ0P8Oh3lcc3cI4vJc3rA7HoczuYnW0/DahWhDofkXa\nArZI24jA43aVo5nirz4ImjeNNIFVOojmYeWrL0Ry9Z9i3j2xEzn9fEheYWEC\nns0tENuIzkFNNgS/TC7F/cOT8yHDx5K4KrtCeokheJOxLvFs7PdH47rvSMgB\n65wXpS2s3znIqOMSouJXmg1W588r1rHlDvbuRmtIwc3J4BIr3A5rwL2TOtPc\n7mQ1kbet+gEBKACv1ZnsxNGblXA34agdiJfkRd9BJathKq/5ylMMw+HS1kys\n7P7flcm9T0ZNixX+ECeCbupJeY3+Gs83g3MRJpvqi+FX4UbynrOMt8ngLCCc\n0Izf50e7JyPLcPWY9spgX8SPx0J4NpjYqoWEitooXkzaPnZtmgQjj1Dz6Y7e\nTCba2eep99J1+IgsC7ev1Z2KPg6nhPTB709aYIueT8mk4uFf1lE9H8Q8XGAF\nT7RRjw1tnVwexnJyzdqe5g9SPiRLnnQsEovtip+XQppucvQXmyWhSjnlqReX\nxBNZXvrEo1Z4yhF5eKNNk9Htz6V9UYVUciZ0nZXUC2y+5+8Xcf1k+ND175+I\nSBELl0K7LT/GIkWqfvnmYppeLGw1bLv+Nqo8t4G9bT9IUeFffVr3VaAcm3NG\ndJtO\r\n=mHUQ\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDQ6Ew+L1cL1AiI6zT+Be3/EJq7aX+VOrt6BkaTsx4SLgIhAPIX0JQLd3HoZflnow5CBlNudLLSH64zhp9fXf13lVKN"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "119888xiao",
+        "email": "w18600699397@163.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "119888xiao",
+            "email": "w18600699397@163.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/119888xiao_1.0.0_1623308869491_0.10838953617742209"
+    },
+    "_hasShrinkwrap": false
+}

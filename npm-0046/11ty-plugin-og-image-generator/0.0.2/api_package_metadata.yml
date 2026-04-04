@@ -1,0 +1,47 @@
+{
+    "name": "11ty-plugin-og-image-generator",
+    "version": "0.0.2",
+    "description": "Automatically create OG images from your 11ty pages",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\""
+    },
+    "author": {
+        "name": "dwkns"
+    },
+    "license": "MIT",
+    "gitHead": "899cc2b19b898c1ce8ebdd46f905b646f72a5004",
+    "_id": "11ty-plugin-og-image-generator@0.0.2",
+    "_nodeVersion": "14.16.0",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-K+/LQDcVIzjCR56+v+/6dP1G8zlZ2u45cRKrf8SS2+5drcTYF8nco5E1dkvR88wqgNK10vi6rPyaLbXjKVSHhw==",
+        "shasum": "28b40a182f82be35b7116d2392bd07bc80c9e2cc",
+        "tarball": "https://registry.npmjs.org/11ty-plugin-og-image-generator/-/11ty-plugin-og-image-generator-0.0.2.tgz",
+        "fileCount": 3,
+        "unpackedSize": 509,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJgTNBQCRA9TVsSAnZWagAAU/YP/ircHGYlUNHky03ByRp1\nsZjPAkNflsoYfRf7cMQFCpwtx1InBfh35N5S/GeOE3ZLGPe4gA3GUkcmMTkd\nYHH32Bso56rtmsi9uG6ZLbuqsvJ1hMJPFDCKZUS8VkAw6Rpsm9/UBwLc2lMH\nKLPFFwNyi4O+x3ZC60ZQfaFMVSWTzqtQZOzsvvYjlZO1ljeUGM5B3HshVDJT\nAJU0iDs3P5BE3dcES/v7sumt2Zatl9tdJHktLcSaFRZR5LtGjj3F+Bppeq0z\n7aSLsaczk+tUKJyONPPpbfvsTlJNNGjzuBFi/wXdYiVIDTrilrYJC3ihn4D7\nDFyC8EDQyEhCVnJCK6GDddhw2nLd287I+YqGlfGnXkVQEH1eDkRsHzz9jejc\nm7fWcn7eurntswRm9NmmoWbpBLggb/zZZKY+fyarZR5H38i96GcePQoqd3p4\nNeC5y7CIeiG6c6o2uNGDdZ1DphZpGjISNNyDy36JMXoBTyBhb5L+APEFCnoP\n6+uveOVV23AyogKVKgPbfrAGa1yTepshHjPCrI8WkJu7Ax8klowMKSaWVNyf\nvtVUBhYCbYoAVM4By6UyUIX0OPULEmeViKmLPWkXxkVPh0tOln0hpcg6nLJk\nwcaIDKM8Za60y+bAP4/0/o1cme2Kb2aKVoBMmoBO+f/tNUtdD3dZ+wZJuhmD\n+PUY\r\n=lzlZ\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIBOEjXbBNn7723FkCAwzpSWJaq8vlCYEZAgNwcH5Pk5sAiBwJl0+qLoNUaw2YCYCCsUu12x4AxuNgWkV2RAcbfwGKA=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "dwkns",
+        "email": "dwkns@me.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "dwkns",
+            "email": "dwkns@me.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/11ty-plugin-og-image-generator_0.0.2_1615646799763_0.15465154685336846"
+    },
+    "_hasShrinkwrap": false
+}

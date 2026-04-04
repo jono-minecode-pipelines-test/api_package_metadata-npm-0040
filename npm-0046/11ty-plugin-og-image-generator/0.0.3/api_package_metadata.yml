@@ -1,0 +1,68 @@
+{
+    "name": "11ty-plugin-og-image-generator",
+    "version": "0.0.3",
+    "description": "Automatically create OG images from your 11ty pages",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\""
+    },
+    "author": {
+        "name": "dwkns"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dwkns/11ty-plugin-og-image-generator.git"
+    },
+    "keywords": [
+        "hello",
+        "world",
+        "hello-world"
+    ],
+    "bin": {
+        "hello-world-npm": "bin.js"
+    },
+    "bugs": {
+        "url": "https://github.com/dwkns/11ty-plugin-og-image-generator/issues"
+    },
+    "homepage": "https://github.com/dwkns/11ty-plugin-og-image-generator#readme",
+    "eslintConfig": {
+        "env": {
+            "commonjs": true,
+            "node": true,
+            "browser": true,
+            "es6": true
+        }
+    },
+    "_id": "11ty-plugin-og-image-generator@0.0.3",
+    "dist": {
+        "shasum": "59d3803e2adbbb24b193bb29f8551854599e4f6d",
+        "integrity": "sha512-f+whSzRpmeIoBU0ZeZs00QZ1suB+GoLX+ZI/C3LQz0/hDUsiFZtpx9A8PAwzlRBbKk/WN2RaR8yPbLwUnq4arQ==",
+        "tarball": "https://registry.npmjs.org/11ty-plugin-og-image-generator/-/11ty-plugin-og-image-generator-0.0.3.tgz",
+        "fileCount": 4,
+        "unpackedSize": 1316,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJgTN2PCRA9TVsSAnZWagAAZokQAKTR7P8VfkAbKMZXcSCb\nJGeJON3GJLvCw6ZFgdpbo0FQ68tDR8UIeMEkJv6zXXR+2o2oN57SyBOGWO1y\nn2QjYMlV1zbP8Cz/RiEt5pyHHabICPFtMBQxmY9RvdRELXxeLbcQQHBdHkgA\ng/rVjm9HVcSlZsEo0yzN3RFChwX2KjEItPVTu7HygigAik/SFytN8rczxlgl\n2xbD28oqFtwVGrZWIR7h9KAuSZwASWeKzKXAbdWOB1e9G3rj0S1EgI6c7ea9\n+xIR7+E2GPGt6Cc2uFmqrQXcgs5JUbk2TqOl8XeNdZC9wEEAtSXYCix6q7Eq\n/66DZyRqsG59chiAMwbBl8NXig+hBIUXu7RDmJrVjDJQdrLHCdldxw2sHEe/\nYMB0cJkp0Bt7sGiHBgyPAo3MB3oVavjPZ6ojrnJcdRZMbvgNCQsP6tKwdsvj\nDGf2sdjBpoiM7VQooiSukPtOAOZLNRduWBjqy8c6nvU7bBEWcJiGQFZabbNS\nugOpKVrpbzYVkLSPaOEargw6eVVZAg/0ktkCohpzq4rOD5u2+wQTMJjVNjN3\n60cSLqLhFyWCcY6foMC5InJH+9vDjUKHDZFn0B027VWi3wHUZwUQa9+HE8O6\nCwIcMGj6hmTEBObadtrsEtzkf8B3AdB5KsJnEuJdAxMCSYWmva+iicbbriEh\n3/0y\r\n=pSCD\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDyssh/ybd49pcrMMoVDrTGmhv7G5Nj1rasY4QOyisSVAIgZrjBuKrxhJ04ZNrcC4r+AUKA3Mb3ChAffSmnZUSA7PM="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "dwkns",
+        "email": "dwkns@me.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "dwkns",
+            "email": "dwkns@me.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/11ty-plugin-og-image-generator_0.0.3_1615650190730_0.2379302000070791"
+    },
+    "_hasShrinkwrap": false
+}

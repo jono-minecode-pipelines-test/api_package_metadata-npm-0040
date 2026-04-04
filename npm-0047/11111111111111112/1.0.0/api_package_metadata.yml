@@ -1,0 +1,41 @@
+{
+    "name": "11111111111111112",
+    "version": "1.0.0",
+    "description": "YMSLX NB3 App Framwork",
+    "main": "index.js",
+    "scripts": {
+        "test": "test"
+    },
+    "author": "",
+    "license": "MIC",
+    "_id": "11111111111111112@1.0.0",
+    "_shasum": "3b41fff62378ba2c38ae5135c1911576ac7ddc62",
+    "_from": ".",
+    "_npmVersion": "3.10.10",
+    "_nodeVersion": "8.5.0",
+    "_npmUser": {
+        "name": "dengxixian",
+        "email": "254269883@qq.com"
+    },
+    "dist": {
+        "shasum": "3b41fff62378ba2c38ae5135c1911576ac7ddc62",
+        "tarball": "https://registry.npmjs.org/11111111111111112/-/11111111111111112-1.0.0.tgz",
+        "integrity": "sha512-muyRSe/7gIO/MPB0iKQpXfTR7xYABAiDu8jxxDPU/dwOgPy1WkE4S8WLGR2JWcpL3lRr0wWbccNY0takXNZ7Rg==",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIENshUueGUVsgNoenUj2dFtn3MLtJQ3rO/dazBcFMGEzAiARJ/JBDIBzWDuBreiynf67ddmQzSA5IXoII16Wp8iGdg=="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "dengxixian",
+            "email": "254269883@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/11111111111111112-1.0.0.tgz_1515403336803_0.6388442339375615"
+    }
+}

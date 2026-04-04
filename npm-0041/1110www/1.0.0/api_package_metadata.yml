@@ -1,0 +1,44 @@
+{
+    "name": "1110www",
+    "version": "1.0.0",
+    "description": "",
+    "main": "5.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "_id": "1110www@1.0.0",
+    "_nodeVersion": "16.11.0",
+    "_npmVersion": "8.0.0",
+    "dist": {
+        "integrity": "sha512-XW5+0t6+iS9W7UjWMkin3eP0d0EHEGZPQsjatFURpRax0qiaHR5giK91zpIY834w8SME/JWUrSqfj11On4zNow==",
+        "shasum": "f07eb4efed7ae83266c20b7b9019beca29dc28ab",
+        "tarball": "https://registry.npmjs.org/1110www/-/1110www-1.0.0.tgz",
+        "fileCount": 13,
+        "unpackedSize": 6958,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhueQ6CRA9TVsSAnZWagAAzJYP/0BAlrXavBI+kex7dUKM\nfZT2ATRSk2texNxjQM2Jf6n4r/ZOut06qDKtQ6Ewg3nVkZ8Riyybf/63O3Y8\no+CL7fa6wLeNH+i9qz2QjWsX3HucOqEbQakYZ9DD0Mv1RFiyv1Rs3b23+fxH\nQDtHncNTJAxjj+bp2cGDpQj19h1L3DH7QZDHtR7xo+utyDPW9qbVbWuh9h7Q\nKsf+5J874d1yeFff2QVsHa3F/5Dv7ODBwkMBROXHrk2b9rDA7xKbyZFS/X+y\nLHCWYamlBVEEcCBdAoL2ac/YXHVrk9Ji5d4zLs+Ej6QF393/uj2LfbZ8hsAG\nJdVlguWMJVR73sJEmiWbvqTNF1tWvuf6hPAEeHn4t3rZg3pk3ZGOoycowjJr\nIbuU/PG1rPSfFWCO5K9B6GXLGUmWgkoTodcFqFJ0oAxeo3IQ4labWlL2ArC9\n/F0XsmN8IJ6rrgyA3Lv4FDCBUb9EmvE+/5zFvOC+CfG/6e3t7eCZ2cWDe4Pd\nzSMRtg9y8GOZz9nUavYLIckGCY/4uRxIRWn4po5PXxyZ5R1XCX1DCZBvx4Dw\nWAWHgkvk1GXe6Q+Cqz3b00RuBjzd6k7hKbHP4hh27u322kp3oK5/Jpx3I7BN\nGTemLNaiZEtvcEK1868cz1Puroxhixpn2smlihnU7R6t+GPbBgQymwtaUiX9\nU+L8\r\n=eMkg\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCKNZbmkxbRb5E8OwxBFIgTV2A5lE5ohi4ASeQCxMG3/gIhAL5QDKHq351p2m39aNHwf8kB7+bGFFTNEx8sBBbSMRyW"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "zhao99",
+        "email": "630512280@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "zhao99",
+            "email": "630512280@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1110www_1.0.0_1636894244203_0.5463575099074651"
+    },
+    "_hasShrinkwrap": false
+}

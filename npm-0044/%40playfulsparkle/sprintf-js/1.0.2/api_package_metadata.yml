@@ -1,0 +1,83 @@
+{
+    "name": "@playfulsparkle/sprintf-js",
+    "version": "1.0.2",
+    "keywords": [
+        "sprintf",
+        "parser",
+        "javascript",
+        "formatting"
+    ],
+    "author": {
+        "name": "Zsolt Oroszl\u00e1ny",
+        "email": "hello@playfulsparkle.com"
+    },
+    "license": "BSD-3-Clause",
+    "_id": "@playfulsparkle/sprintf-js@1.0.2",
+    "maintainers": [
+        {
+            "name": "zsoltoroszlany82",
+            "email": "hello@playfulsparkle.com"
+        }
+    ],
+    "homepage": "https://github.com/playfulsparkle/sprintf.js#readme",
+    "bugs": {
+        "url": "https://github.com/playfulsparkle/sprintf.js/issues"
+    },
+    "dist": {
+        "shasum": "a5c8e2ad6c6fea9dbcb63f32fb3d8f4619bc9852",
+        "tarball": "https://registry.npmjs.org/@playfulsparkle/sprintf-js/-/sprintf-js-1.0.2.tgz",
+        "fileCount": 7,
+        "integrity": "sha512-O5gj1RiRJCnb9aORRUYSWsga3exrtsu58+VeVPskJOB6XY/mnQb5Xy78xd1QEW7tl0vZ/30rQh5Rl7M70UJhsw==",
+        "signatures": [
+            {
+                "sig": "MEUCIQCKz4W5LRhkfV1i8K+wKIOTwx4ovp+PYj8OQw0JDaypMQIgCb2vyg9da4yuHuFuS2NyLpUvKer9Y5Fc9vCDUR9j9q4=",
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+            }
+        ],
+        "unpackedSize": 64705
+    },
+    "main": "src/sprintf.js",
+    "gitHead": "9080d11ade23892378d4939cfa715327388b6455",
+    "scripts": {
+        "lint": "eslint .",
+        "test": "mocha test/*.js",
+        "pretest": "npm run lint",
+        "lint:fix": "eslint --fix ."
+    },
+    "_npmUser": {
+        "name": "zsoltoroszlany82",
+        "email": "hello@playfulsparkle.com"
+    },
+    "overrides": {
+        "graceful-fs": "^4.2.11"
+    },
+    "repository": {
+        "url": "git+https://github.com/playfulsparkle/sprintf.js.git",
+        "type": "git"
+    },
+    "_npmVersion": "10.9.2",
+    "description": "A lightweight, Open Source sprintf.js sprintf implementation written in JavaScript",
+    "directories": {},
+    "_nodeVersion": "22.14.0",
+    "publishConfig": {
+        "access": "public"
+    },
+    "_hasShrinkwrap": false,
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "mocha": "^5.2.0",
+        "eslint": "^5.10.0",
+        "benchmark": "^2.1.4",
+        "gulp-mocha": "^6.0.0",
+        "gulp-eslint": "^5.0.0",
+        "gulp-header": "^2.0.5",
+        "gulp-rename": "^1.4.0",
+        "gulp-uglify": "^3.0.1",
+        "gulp-benchmark": "^1.1.1",
+        "gulp-sourcemaps": "^2.6.4"
+    },
+    "_npmOperationalInternal": {
+        "tmp": "tmp/sprintf-js_1.0.2_1742896579165_0.4899497326141029",
+        "host": "s3://npm-registry-packages-npm-production"
+    }
+}

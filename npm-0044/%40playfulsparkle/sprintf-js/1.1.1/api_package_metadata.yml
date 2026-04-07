@@ -1,0 +1,86 @@
+{
+    "name": "@playfulsparkle/sprintf-js",
+    "version": "1.1.1",
+    "keywords": [
+        "sprintf",
+        "parser",
+        "javascript",
+        "formatting"
+    ],
+    "author": {
+        "name": "Zsolt Oroszl\u00e1ny",
+        "email": "hello@playfulsparkle.com"
+    },
+    "license": "BSD-3-Clause",
+    "_id": "@playfulsparkle/sprintf-js@1.1.1",
+    "maintainers": [
+        {
+            "name": "zsoltoroszlany82",
+            "email": "hello@playfulsparkle.com"
+        }
+    ],
+    "homepage": "https://github.com/playfulsparkle/sprintf.js#readme",
+    "bugs": {
+        "url": "https://github.com/playfulsparkle/sprintf.js/issues"
+    },
+    "dist": {
+        "shasum": "024ca86862316e014e52b42c9471f910a526e06e",
+        "tarball": "https://registry.npmjs.org/@playfulsparkle/sprintf-js/-/sprintf-js-1.1.1.tgz",
+        "fileCount": 10,
+        "integrity": "sha512-myjmEBPIvXV5KQSsriSb+afhrbHAXqpN6R7ZFDUyxOWKcM38PnfOFH1jAxLDpMDwm3cpE7M+ulrkGyXqQrWxdQ==",
+        "signatures": [
+            {
+                "sig": "MEQCIC8cgEXajd6RWS0z4MvOkFLC/UeCc5JyH3Ym1gxSDA2EAiA60mlWbKaUfJcJm9XXWV6Usw0L5ZH2/IVBxcWA/x/yog==",
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+            }
+        ],
+        "unpackedSize": 99719
+    },
+    "main": "dist/sprintf.min.js",
+    "type": "commonjs",
+    "gitHead": "307c2cae2b1d8669af35379956491cb8aa6c8111",
+    "scripts": {
+        "lint": "eslint .",
+        "test": "mocha test/*.js",
+        "build": "gulp",
+        "prepare": "npm run build",
+        "pretest": "npm run lint",
+        "lint:fix": "eslint --fix ."
+    },
+    "_npmUser": {
+        "name": "zsoltoroszlany82",
+        "email": "hello@playfulsparkle.com"
+    },
+    "overrides": {
+        "graceful-fs": "^4.2.11"
+    },
+    "repository": {
+        "url": "git+https://github.com/playfulsparkle/sprintf.js.git",
+        "type": "git"
+    },
+    "_npmVersion": "10.9.2",
+    "description": "A lightweight, Open Source sprintf.js sprintf implementation written in JavaScript",
+    "directories": {},
+    "_nodeVersion": "22.14.0",
+    "publishConfig": {
+        "access": "public"
+    },
+    "_hasShrinkwrap": false,
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "mocha": "^5.2.0",
+        "eslint": "^5.10.0",
+        "benchmark": "^2.1.4",
+        "gulp-mocha": "^6.0.0",
+        "gulp-eslint": "^5.0.0",
+        "gulp-header": "^2.0.5",
+        "gulp-rename": "^1.4.0",
+        "gulp-uglify": "^3.0.1",
+        "gulp-benchmark": "^1.1.1",
+        "gulp-sourcemaps": "^2.6.4"
+    },
+    "_npmOperationalInternal": {
+        "tmp": "tmp/sprintf-js_1.1.1_1744966012248_0.5252000844228055",
+        "host": "s3://npm-registry-packages-npm-production"
+    }
+}
